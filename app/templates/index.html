@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8" />
+    <title>Audit – E-shop Audit Assistant</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://unpkg.com/alpinejs" defer></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="/static/styles/output.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-800 min-h-screen">
+
+    <!-- Navigácia -->
+    <nav class="bg-indigo-600 text-white shadow mb-8">
+        <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <img src="/static/images/logo.png" alt="Logo" class="h-7 max-h-7 w-auto object-contain block" />
+            </div>
+            <div class="space-x-4 text-sm sm:text-base">
+                <a href="/" class="hover:underline font-semibold">Audit</a>
+                <a href="/navrhy-oprav" class="hover:underline">Návrhy opráv</a>
+                <a href="/export" class="hover:underline">Export CSV</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Obsah -->
+    <main class="max-w-4xl mx-auto px-4 pb-10">
+
+        <!-- Formulár -->
+        <form method="post" enctype="multipart/form-data" class="bg-white shadow-md rounded-lg p-6 mb-8 space-y-4">
+            <label for="feed_file" class="block text-lg font-medium text-gray-700">
+                Nahraj XML alebo CSV súbor feedu z počítača:
+            </label>
+            <input type="file" id="feed_file" name="feed_file" accept=".xml,.csv"
+                   class="block w-full border border-gray-300 px-4 py-2 rounded-md shadow-sm" required />
+
+            <button type="submit"
+                    class="inline-flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-2 rounded-md shadow transition">
+                🔄 <span>Spustiť audit</span>
+            </button>
+        </form>
+
+        {% if audit.chyba %}
+        <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-6">
+            ⚠️ Chyba pri načítaní feedu: {{ audit.chyba }}
+        </div>
+        {% endif %}
+
+        <!-- Komponenty sekcií -->
+        {% macro section(title, items, level="info", icon="alert-circle") -%}
+        {% set count = items | length %}
+        {% set colors = {"critical": "red", "warning": "yellow", "info": "green"} %}
+        {% set gradients = {
+        "critical": "from-red-100 to-red-50",
+        "warning": "from-yellow-100 to-yellow-50",
+        "info": "from-green-100 to-green-50"
+        } %}
+        {% set color = colors.get(level, "gray") %}
+        {% set gradient = gradients.get(level, "from-gray-100 to-gray-50") %}
+
+        <div x-data="{ open: true }"
+             class="mb-6 bg-gradient-to-br {{ gradient }} border border-{{ color }}-300 rounded-lg shadow-md overflow-hidden">
+            <button @click="open = !open"
+                    class="w-full flex justify-between items-center px-6 py-4 cursor-pointer select-none focus:outline-none focus:ring-2 focus:ring-{{ color }}-400">
+                <div class="flex items-center gap-3">
+                    <svg data-lucide="{{ icon }}" class="w-6 h-6 text-{{ color }}-600" stroke-width="2"></svg>
+                    <h2 class="font-semibold text-{{ color }}-800 text-lg">
+                        {{ title }}{% if count > 0 %} ({{ count }}){% endif %}
+                    </h2>
+                </div>
+                <svg x-show="open" data-lucide="chevron-up" class="w-6 h-6 text-{{ color }}-600"></svg>
+                <svg x-show="!open" data-lucide="chevron-down" class="w-6 h-6 text-{{ color }}-600"></svg>
+            </button>
+            <div x-show="open" class="px-6 pb-6 pt-2 border-t border-{{ color }}-300">
+                {% if items %}
+                <ul class="list-disc ml-6 space-y-2 text-gray-700 text-sm">
+                    {% for item in items %}
+                    <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+                {% else %}
+                <p class="text-green-700 font-semibold text-sm">✅ Všetko je v poriadku.</p>
+                {% endif %}
+            </div>
+        </div>
+        {%- endmacro %}
+
+        <!-- Výpis sekcií -->
+        {{ section("❌ Produkty bez názvu", audit.produkty_bez_nazvu or [], "critical", "alert-circle") }}
+        {{ section("❌ Produkty bez popisu", audit.produkty_bez_popisu or [], "critical", "alert-circle") }}
+        {{ section("⚠️ Krátke popisy (< 100 znakov)", audit.produkty_s_kratkym_popisom or [], "warning", "info") }}
+        {{ section("⚠️ Príliš dlhé názvy (> 70 znakov)", audit.dlhe_nazvy or [], "warning", "info") }}
+        {{ section("⚠️ Príliš dlhé popisy (> 160 znakov)", audit.dlhe_popisy or [], "warning", "info") }}
+        {{ section("⚠️ Popis je rovnaký ako názov", audit.popis_rovnaky_ako_nazov or [], "warning", "info") }}
+        {{ section("❌ Produkty bez ceny", audit.produkty_bez_ceny or [], "critical", "alert-circle") }}
+        {{ section("⚠️ Cena je nulová alebo príliš nízka", (audit.produkty_s_cenou_nula or []) + (audit.nezvycajne_nizka_cena or []), "warning", "info") }}
+        {{ section("❌ Produkty bez obrázka", audit.produkty_bez_obrazka or [], "critical", "alert-circle") }}
+        {{ section("⚠️ Obrázky z cudzej domény", audit.obrazky_cudzia_domena or [], "warning", "info") }}
+        {{ section("⚠️ Rovnaký obrázok použitý vo viacerých produktoch", audit.obrazky_duplicita or [], "warning", "info") }}
+        {{ section("⚠️ Nevhodné HTML znaky alebo kód v názve/popise", audit.nevhodne_znaky or [], "warning", "info") }}
+        {{ section("⚠️ Duplicitné názvy produktov", audit.duplicitne_nazvy or [], "warning", "info") }}
+        {{ section("⚠️ Duplicitné ITEM_ID (kódy produktov)", audit.duplicitne_kody or [], "warning", "info") }}
+        {{ section("❌ Produkty bez EAN kódu", audit.produkty_bez_eanu or [], "critical", "alert-circle") }}
+
+    </main>
+
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

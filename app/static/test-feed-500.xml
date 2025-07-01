@@ -1,0 +1,5003 @@
+<?xml version="1.0" ?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00000</ITEM_ID>
+    <PRODUCT>Produkt 0</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img0.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00001</ITEM_ID>
+    <PRODUCT>Produkt 1</PRODUCT>
+    <DESCRIPTION>Popis produktu 1 Popis produktu 1 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img1.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00002</ITEM_ID>
+    <PRODUCT>Produkt 2</PRODUCT>
+    <DESCRIPTION>Popis produktu 2 Popis produktu 2 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img2.jpg</IMGURL>
+    <EAN>799028809105</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00003</ITEM_ID>
+    <PRODUCT>Produkt 3</PRODUCT>
+    <DESCRIPTION>Popis produktu 3 Popis produktu 3 Popis produktu 3 Popis produktu 3 Popis produktu 3 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img3.jpg</IMGURL>
+    <EAN>188169</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00004</ITEM_ID>
+    <PRODUCT>Produkt 4</PRODUCT>
+    <DESCRIPTION>Popis produktu 4 Popis produktu 4 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img4.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00005</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 5 Popis produktu 5 Popis produktu 5 Popis produktu 5 Popis produktu 5 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>78521</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00006</ITEM_ID>
+    <PRODUCT>Produkt 6</PRODUCT>
+    <DESCRIPTION>Popis produktu 6 Popis produktu 6 Popis produktu 6 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img6.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00007</ITEM_ID>
+    <PRODUCT>Produkt 7</PRODUCT>
+    <DESCRIPTION>Popis produktu 7 Popis produktu 7 Popis produktu 7 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img7.jpg</IMGURL>
+    <EAN>20998753311</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00008</ITEM_ID>
+    <PRODUCT>Produkt 8</PRODUCT>
+    <DESCRIPTION>Popis produktu 8 Popis produktu 8 Popis produktu 8 Popis produktu 8 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL/>
+    <EAN>377092786466</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00009</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 9 Popis produktu 9 Popis produktu 9 Popis produktu 9 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img9.jpg</IMGURL>
+    <EAN>7923607171873</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00010</ITEM_ID>
+    <PRODUCT>Produkt 10</PRODUCT>
+    <DESCRIPTION>Popis produktu 10 Popis produktu 10 Popis produktu 10 Popis produktu 10 Popis produktu 10 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img10.jpg</IMGURL>
+    <EAN>7159744751</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00011</ITEM_ID>
+    <PRODUCT>Produkt 11</PRODUCT>
+    <DESCRIPTION>Popis produktu 11 Popis produktu 11 Popis produktu 11 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img11.jpg</IMGURL>
+    <EAN>23514929</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00012</ITEM_ID>
+    <PRODUCT>Produkt 12</PRODUCT>
+    <DESCRIPTION>Popis produktu 12 Popis produktu 12 Popis produktu 12 Popis produktu 12 Popis produktu 12 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img12.jpg</IMGURL>
+    <EAN>4917900815501</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00013</ITEM_ID>
+    <PRODUCT>Produkt 13</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img13.jpg</IMGURL>
+    <EAN>3790396</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00014</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 14 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img14.jpg</IMGURL>
+    <EAN>135960789105</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00015</ITEM_ID>
+    <PRODUCT>Produkt 15</PRODUCT>
+    <DESCRIPTION>Popis produktu 15 Popis produktu 15 Popis produktu 15 Popis produktu 15 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img15.jpg</IMGURL>
+    <EAN>7030666730</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00016</ITEM_ID>
+    <PRODUCT>Produkt 16</PRODUCT>
+    <DESCRIPTION>Popis produktu 16 Popis produktu 16 Popis produktu 16 Popis produktu 16 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>716026</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00017</ITEM_ID>
+    <PRODUCT>Produkt 17</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img17.jpg</IMGURL>
+    <EAN>948174203</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00018</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 18 Popis produktu 18 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img18.jpg</IMGURL>
+    <EAN>963565</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00019</ITEM_ID>
+    <PRODUCT>Produkt 19</PRODUCT>
+    <DESCRIPTION>Popis produktu 19 Popis produktu 19 Popis produktu 19 Popis produktu 19 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img19.jpg</IMGURL>
+    <EAN>2703659</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00020</ITEM_ID>
+    <PRODUCT>Produkt 20</PRODUCT>
+    <DESCRIPTION>Popis produktu 20 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img20.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00021</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img21.jpg</IMGURL>
+    <EAN>2075870705810</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00022</ITEM_ID>
+    <PRODUCT>Produkt 22</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>792926512</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00023</ITEM_ID>
+    <PRODUCT>Produkt 23</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00024</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 24 Popis produktu 24 Popis produktu 24 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img24.jpg</IMGURL>
+    <EAN>7587802487668</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00025</ITEM_ID>
+    <PRODUCT>Produkt 25</PRODUCT>
+    <DESCRIPTION>Popis produktu 25 Popis produktu 25 Popis produktu 25 Popis produktu 25 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img25.jpg</IMGURL>
+    <EAN>95662</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00026</ITEM_ID>
+    <PRODUCT>Produkt 26</PRODUCT>
+    <DESCRIPTION>Popis produktu 26 Popis produktu 26 Popis produktu 26 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>8962411042098</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00027</ITEM_ID>
+    <PRODUCT>Produkt 27</PRODUCT>
+    <DESCRIPTION>Popis produktu 27 Popis produktu 27 Popis produktu 27 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img27.jpg</IMGURL>
+    <EAN>916503674338</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00028</ITEM_ID>
+    <PRODUCT>Produkt 28</PRODUCT>
+    <DESCRIPTION>Popis produktu 28 Popis produktu 28 Popis produktu 28 Popis produktu 28 Popis produktu 28 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img28.jpg</IMGURL>
+    <EAN>497920</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00029</ITEM_ID>
+    <PRODUCT>Produkt 29</PRODUCT>
+    <DESCRIPTION>Popis produktu 29 Popis produktu 29 Popis produktu 29 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img29.jpg</IMGURL>
+    <EAN>6935180</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00030</ITEM_ID>
+    <PRODUCT>Produkt 30</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img30.jpg</IMGURL>
+    <EAN>601250141334</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00031</ITEM_ID>
+    <PRODUCT>Produkt 31</PRODUCT>
+    <DESCRIPTION>Popis produktu 31 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img31.jpg</IMGURL>
+    <EAN>77113431686</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00032</ITEM_ID>
+    <PRODUCT>Produkt 32</PRODUCT>
+    <DESCRIPTION>Popis produktu 32 Popis produktu 32 Popis produktu 32 Popis produktu 32 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img32.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00033</ITEM_ID>
+    <PRODUCT>Produkt 33</PRODUCT>
+    <DESCRIPTION>Popis produktu 33 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img33.jpg</IMGURL>
+    <EAN>2097326080287</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00034</ITEM_ID>
+    <PRODUCT>Produkt 34</PRODUCT>
+    <DESCRIPTION>Popis produktu 34 Popis produktu 34 Popis produktu 34 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>29745</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00035</ITEM_ID>
+    <PRODUCT>Produkt 35</PRODUCT>
+    <DESCRIPTION>Popis produktu 35 Popis produktu 35 Popis produktu 35 Popis produktu 35 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img35.jpg</IMGURL>
+    <EAN>503438</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00036</ITEM_ID>
+    <PRODUCT>Produkt 36</PRODUCT>
+    <DESCRIPTION>Popis produktu 36 Popis produktu 36 Popis produktu 36 Popis produktu 36 Popis produktu 36 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>7028372</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00037</ITEM_ID>
+    <PRODUCT>Produkt 37</PRODUCT>
+    <DESCRIPTION>Popis produktu 37 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img37.jpg</IMGURL>
+    <EAN>774744434739</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00038</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 38 Popis produktu 38 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img38.jpg</IMGURL>
+    <EAN>9196400088934</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00039</ITEM_ID>
+    <PRODUCT>Produkt 39</PRODUCT>
+    <DESCRIPTION>Popis produktu 39 Popis produktu 39 Popis produktu 39 Popis produktu 39 Popis produktu 39 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img39.jpg</IMGURL>
+    <EAN>1066750569996</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00040</ITEM_ID>
+    <PRODUCT>Produkt 40</PRODUCT>
+    <DESCRIPTION>Popis produktu 40 Popis produktu 40 Popis produktu 40 Popis produktu 40 Popis produktu 40 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img40.jpg</IMGURL>
+    <EAN>1269687194079</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00041</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 41 Popis produktu 41 Popis produktu 41 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img41.jpg</IMGURL>
+    <EAN>7103216058831</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00042</ITEM_ID>
+    <PRODUCT>Produkt 42</PRODUCT>
+    <DESCRIPTION>Popis produktu 42 Popis produktu 42 Popis produktu 42 Popis produktu 42 Popis produktu 42 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img42.jpg</IMGURL>
+    <EAN>97684039</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00043</ITEM_ID>
+    <PRODUCT>Produkt 43</PRODUCT>
+    <DESCRIPTION>Popis produktu 43 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img43.jpg</IMGURL>
+    <EAN>65030</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00044</ITEM_ID>
+    <PRODUCT>Produkt 44</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img44.jpg</IMGURL>
+    <EAN>609660526822</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00045</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 45 Popis produktu 45 Popis produktu 45 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img45.jpg</IMGURL>
+    <EAN>1228239964558</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00046</ITEM_ID>
+    <PRODUCT>Produkt 46</PRODUCT>
+    <DESCRIPTION>Popis produktu 46 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img46.jpg</IMGURL>
+    <EAN>865040291</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00047</ITEM_ID>
+    <PRODUCT>Produkt 47</PRODUCT>
+    <DESCRIPTION>Popis produktu 47 Popis produktu 47 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img47.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00048</ITEM_ID>
+    <PRODUCT>Produkt 48</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img48.jpg</IMGURL>
+    <EAN>7854215</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00049</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 49 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img49.jpg</IMGURL>
+    <EAN>40896</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00050</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img50.jpg</IMGURL>
+    <EAN>7123820247403</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00051</ITEM_ID>
+    <PRODUCT>Produkt 51</PRODUCT>
+    <DESCRIPTION>Popis produktu 51 Popis produktu 51 Popis produktu 51 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img51.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00052</ITEM_ID>
+    <PRODUCT>Produkt 52</PRODUCT>
+    <DESCRIPTION>Popis produktu 52 Popis produktu 52 Popis produktu 52 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img52.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00053</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img53.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00054</ITEM_ID>
+    <PRODUCT>Produkt 54</PRODUCT>
+    <DESCRIPTION>Popis produktu 54 Popis produktu 54 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img54.jpg</IMGURL>
+    <EAN>966815001</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00055</ITEM_ID>
+    <PRODUCT>Produkt 55</PRODUCT>
+    <DESCRIPTION>Popis produktu 55 Popis produktu 55 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img55.jpg</IMGURL>
+    <EAN>72878</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00056</ITEM_ID>
+    <PRODUCT>Produkt 56</PRODUCT>
+    <DESCRIPTION>Popis produktu 56 Popis produktu 56 Popis produktu 56 Popis produktu 56 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img56.jpg</IMGURL>
+    <EAN>242393008</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00057</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 57 Popis produktu 57 Popis produktu 57 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img57.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00058</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 58 Popis produktu 58 Popis produktu 58 Popis produktu 58 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img58.jpg</IMGURL>
+    <EAN>756728061</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00059</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 59 Popis produktu 59 Popis produktu 59 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img59.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00060</ITEM_ID>
+    <PRODUCT>Produkt 60</PRODUCT>
+    <DESCRIPTION>Popis produktu 60 Popis produktu 60 Popis produktu 60 Popis produktu 60 Popis produktu 60 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img60.jpg</IMGURL>
+    <EAN>14891587</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00061</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 61 Popis produktu 61 Popis produktu 61 Popis produktu 61 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img61.jpg</IMGURL>
+    <EAN>88294498946</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00062</ITEM_ID>
+    <PRODUCT>Produkt 62</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img62.jpg</IMGURL>
+    <EAN>9892504</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00063</ITEM_ID>
+    <PRODUCT>Produkt 63</PRODUCT>
+    <DESCRIPTION>Popis produktu 63 Popis produktu 63 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img63.jpg</IMGURL>
+    <EAN>15469646513</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00064</ITEM_ID>
+    <PRODUCT>Produkt 64</PRODUCT>
+    <DESCRIPTION>Popis produktu 64 Popis produktu 64 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img64.jpg</IMGURL>
+    <EAN>94299</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00065</ITEM_ID>
+    <PRODUCT>Produkt 65</PRODUCT>
+    <DESCRIPTION>Popis produktu 65 Popis produktu 65 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img65.jpg</IMGURL>
+    <EAN>5594574701307</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00066</ITEM_ID>
+    <PRODUCT>Produkt 66</PRODUCT>
+    <DESCRIPTION>Popis produktu 66 Popis produktu 66 Popis produktu 66 Popis produktu 66 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img66.jpg</IMGURL>
+    <EAN>8305784</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00067</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img67.jpg</IMGURL>
+    <EAN>94390900</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00068</ITEM_ID>
+    <PRODUCT>Produkt 68</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img68.jpg</IMGURL>
+    <EAN>708509314782</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00069</ITEM_ID>
+    <PRODUCT>Produkt 69</PRODUCT>
+    <DESCRIPTION>Popis produktu 69 Popis produktu 69 Popis produktu 69 Popis produktu 69 Popis produktu 69 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img69.jpg</IMGURL>
+    <EAN>48614</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00070</ITEM_ID>
+    <PRODUCT>Produkt 70</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00071</ITEM_ID>
+    <PRODUCT>Produkt 71</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img71.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00072</ITEM_ID>
+    <PRODUCT>Produkt 72</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img72.jpg</IMGURL>
+    <EAN>43433408</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00073</ITEM_ID>
+    <PRODUCT>Produkt 73</PRODUCT>
+    <DESCRIPTION>Popis produktu 73 Popis produktu 73 Popis produktu 73 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>4669542</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00074</ITEM_ID>
+    <PRODUCT>Produkt 74</PRODUCT>
+    <DESCRIPTION>Popis produktu 74 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img74.jpg</IMGURL>
+    <EAN>6596820</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00075</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 75 Popis produktu 75 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img75.jpg</IMGURL>
+    <EAN>3094429</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00076</ITEM_ID>
+    <PRODUCT>Produkt 76</PRODUCT>
+    <DESCRIPTION>Popis produktu 76 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img76.jpg</IMGURL>
+    <EAN>66541707952</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00077</ITEM_ID>
+    <PRODUCT>Produkt 77</PRODUCT>
+    <DESCRIPTION>Popis produktu 77 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img77.jpg</IMGURL>
+    <EAN>667113</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00078</ITEM_ID>
+    <PRODUCT>Produkt 78</PRODUCT>
+    <DESCRIPTION>Popis produktu 78 Popis produktu 78 Popis produktu 78 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img78.jpg</IMGURL>
+    <EAN>66262648</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00079</ITEM_ID>
+    <PRODUCT>Produkt 79</PRODUCT>
+    <DESCRIPTION>Popis produktu 79 Popis produktu 79 Popis produktu 79 Popis produktu 79 Popis produktu 79 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>127811042268</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00080</ITEM_ID>
+    <PRODUCT>Produkt 80</PRODUCT>
+    <DESCRIPTION>Popis produktu 80 Popis produktu 80 Popis produktu 80 Popis produktu 80 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img80.jpg</IMGURL>
+    <EAN>234695</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00081</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 81 Popis produktu 81 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img81.jpg</IMGURL>
+    <EAN>160464819</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00082</ITEM_ID>
+    <PRODUCT>Produkt 82</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img82.jpg</IMGURL>
+    <EAN>98681</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00083</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 83 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>2599355231</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00084</ITEM_ID>
+    <PRODUCT>Produkt 84</PRODUCT>
+    <DESCRIPTION>Popis produktu 84 Popis produktu 84 Popis produktu 84 Popis produktu 84 Popis produktu 84 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL/>
+    <EAN>62833245720</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00085</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 85 Popis produktu 85 Popis produktu 85 Popis produktu 85 Popis produktu 85 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>9243049285926</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00086</ITEM_ID>
+    <PRODUCT>Produkt 86</PRODUCT>
+    <DESCRIPTION>Popis produktu 86 Popis produktu 86 Popis produktu 86 Popis produktu 86 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img86.jpg</IMGURL>
+    <EAN>501200394551</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00087</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 87 Popis produktu 87 Popis produktu 87 Popis produktu 87 Popis produktu 87 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img87.jpg</IMGURL>
+    <EAN>347339780</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00088</ITEM_ID>
+    <PRODUCT>Produkt 88</PRODUCT>
+    <DESCRIPTION>Popis produktu 88 Popis produktu 88 Popis produktu 88 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>649828540993</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00089</ITEM_ID>
+    <PRODUCT>Produkt 89</PRODUCT>
+    <DESCRIPTION>Popis produktu 89 Popis produktu 89 Popis produktu 89 Popis produktu 89 Popis produktu 89 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img89.jpg</IMGURL>
+    <EAN>77018547901</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00090</ITEM_ID>
+    <PRODUCT>Produkt 90</PRODUCT>
+    <DESCRIPTION>Popis produktu 90 Popis produktu 90 Popis produktu 90 Popis produktu 90 Popis produktu 90 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img90.jpg</IMGURL>
+    <EAN>1120026</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00091</ITEM_ID>
+    <PRODUCT>Produkt 91</PRODUCT>
+    <DESCRIPTION>Popis produktu 91 Popis produktu 91 Popis produktu 91 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00092</ITEM_ID>
+    <PRODUCT>Produkt 92</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img92.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00093</ITEM_ID>
+    <PRODUCT>Produkt 93</PRODUCT>
+    <DESCRIPTION>Popis produktu 93 Popis produktu 93 Popis produktu 93 Popis produktu 93 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img93.jpg</IMGURL>
+    <EAN>8780119838</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00094</ITEM_ID>
+    <PRODUCT>Produkt 94</PRODUCT>
+    <DESCRIPTION>Popis produktu 94 Popis produktu 94 Popis produktu 94 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>8471902749570</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00095</ITEM_ID>
+    <PRODUCT>Produkt 95</PRODUCT>
+    <DESCRIPTION>Popis produktu 95 Popis produktu 95 Popis produktu 95 Popis produktu 95 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>5951255</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00096</ITEM_ID>
+    <PRODUCT>Produkt 96</PRODUCT>
+    <DESCRIPTION>Popis produktu 96 Popis produktu 96 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img96.jpg</IMGURL>
+    <EAN>43285</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00097</ITEM_ID>
+    <PRODUCT>Produkt 97</PRODUCT>
+    <DESCRIPTION>Popis produktu 97 Popis produktu 97 Popis produktu 97 Popis produktu 97 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img97.jpg</IMGURL>
+    <EAN>4805414939540</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00098</ITEM_ID>
+    <PRODUCT>Produkt 98</PRODUCT>
+    <DESCRIPTION>Popis produktu 98 Popis produktu 98 Popis produktu 98 Popis produktu 98 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img98.jpg</IMGURL>
+    <EAN>986536</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00099</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 99 Popis produktu 99 Popis produktu 99 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>4925891</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00100</ITEM_ID>
+    <PRODUCT>Produkt 100</PRODUCT>
+    <DESCRIPTION>Popis produktu 100 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img100.jpg</IMGURL>
+    <EAN>558616056595</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00101</ITEM_ID>
+    <PRODUCT>Produkt 101</PRODUCT>
+    <DESCRIPTION>Popis produktu 101 Popis produktu 101 Popis produktu 101 Popis produktu 101 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img101.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00102</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img102.jpg</IMGURL>
+    <EAN>552892652</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00103</ITEM_ID>
+    <PRODUCT>Produkt 103</PRODUCT>
+    <DESCRIPTION>Popis produktu 103 Popis produktu 103 Popis produktu 103 Popis produktu 103 Popis produktu 103 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img103.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00104</ITEM_ID>
+    <PRODUCT>Produkt 104</PRODUCT>
+    <DESCRIPTION>Popis produktu 104 Popis produktu 104 Popis produktu 104 Popis produktu 104 Popis produktu 104 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img104.jpg</IMGURL>
+    <EAN>1417914146312</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00105</ITEM_ID>
+    <PRODUCT>Produkt 105</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img105.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00106</ITEM_ID>
+    <PRODUCT>Produkt 106</PRODUCT>
+    <DESCRIPTION>Popis produktu 106 Popis produktu 106 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>9227464943</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00107</ITEM_ID>
+    <PRODUCT>Produkt 107</PRODUCT>
+    <DESCRIPTION>Popis produktu 107 Popis produktu 107 Popis produktu 107 Popis produktu 107 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img107.jpg</IMGURL>
+    <EAN>7892901333</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00108</ITEM_ID>
+    <PRODUCT>Produkt 108</PRODUCT>
+    <DESCRIPTION>Popis produktu 108 Popis produktu 108 Popis produktu 108 Popis produktu 108 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img108.jpg</IMGURL>
+    <EAN>26942</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00109</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 109 Popis produktu 109 Popis produktu 109 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img109.jpg</IMGURL>
+    <EAN>515072</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00110</ITEM_ID>
+    <PRODUCT>Produkt 110</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00111</ITEM_ID>
+    <PRODUCT>Produkt 111</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img111.jpg</IMGURL>
+    <EAN>389640</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00112</ITEM_ID>
+    <PRODUCT>Produkt 112</PRODUCT>
+    <DESCRIPTION>Popis produktu 112 Popis produktu 112 Popis produktu 112 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img112.jpg</IMGURL>
+    <EAN>9242624741514</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00113</ITEM_ID>
+    <PRODUCT>Produkt 113</PRODUCT>
+    <DESCRIPTION>Popis produktu 113 Popis produktu 113 Popis produktu 113 Popis produktu 113 Popis produktu 113 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>84468</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00114</ITEM_ID>
+    <PRODUCT>Produkt 114</PRODUCT>
+    <DESCRIPTION>Popis produktu 114 Popis produktu 114 Popis produktu 114 Popis produktu 114 Popis produktu 114 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img114.jpg</IMGURL>
+    <EAN>90005892</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00115</ITEM_ID>
+    <PRODUCT>Produkt 115</PRODUCT>
+    <DESCRIPTION>Popis produktu 115 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img115.jpg</IMGURL>
+    <EAN>4954138</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00116</ITEM_ID>
+    <PRODUCT>Produkt 116</PRODUCT>
+    <DESCRIPTION>Popis produktu 116 Popis produktu 116 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>668958463</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00117</ITEM_ID>
+    <PRODUCT>Produkt 117</PRODUCT>
+    <DESCRIPTION>Popis produktu 117 Popis produktu 117 Popis produktu 117 Popis produktu 117 Popis produktu 117 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img117.jpg</IMGURL>
+    <EAN>195714077</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00118</ITEM_ID>
+    <PRODUCT>Produkt 118</PRODUCT>
+    <DESCRIPTION>Popis produktu 118 Popis produktu 118 Popis produktu 118 Popis produktu 118 Popis produktu 118 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img118.jpg</IMGURL>
+    <EAN>75548614467</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00119</ITEM_ID>
+    <PRODUCT>Produkt 119</PRODUCT>
+    <DESCRIPTION>Popis produktu 119 Popis produktu 119 Popis produktu 119 Popis produktu 119 Popis produktu 119 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img119.jpg</IMGURL>
+    <EAN>7148541001</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00120</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 120 Popis produktu 120 Popis produktu 120 Popis produktu 120 Popis produktu 120 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img120.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00121</ITEM_ID>
+    <PRODUCT>Produkt 121</PRODUCT>
+    <DESCRIPTION>Popis produktu 121 Popis produktu 121 Popis produktu 121 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img121.jpg</IMGURL>
+    <EAN>2585784690682</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00122</ITEM_ID>
+    <PRODUCT>Produkt 122</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img122.jpg</IMGURL>
+    <EAN>38811951</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00123</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 123 Popis produktu 123 Popis produktu 123 Popis produktu 123 Popis produktu 123 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL/>
+    <EAN>980816810</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00124</ITEM_ID>
+    <PRODUCT>Produkt 124</PRODUCT>
+    <DESCRIPTION>Popis produktu 124 Popis produktu 124 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img124.jpg</IMGURL>
+    <EAN>173112841567</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00125</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 125 Popis produktu 125 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img125.jpg</IMGURL>
+    <EAN>5586685407970</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00126</ITEM_ID>
+    <PRODUCT>Produkt 126</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img126.jpg</IMGURL>
+    <EAN>4456190</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00127</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img127.jpg</IMGURL>
+    <EAN>979661291639</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00128</ITEM_ID>
+    <PRODUCT>Produkt 128</PRODUCT>
+    <DESCRIPTION>Popis produktu 128 Popis produktu 128 Popis produktu 128 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img128.jpg</IMGURL>
+    <EAN>126925</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00129</ITEM_ID>
+    <PRODUCT>Produkt 129</PRODUCT>
+    <DESCRIPTION>Popis produktu 129 Popis produktu 129 Popis produktu 129 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img129.jpg</IMGURL>
+    <EAN>908668</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00130</ITEM_ID>
+    <PRODUCT>Produkt 130</PRODUCT>
+    <DESCRIPTION>Popis produktu 130 Popis produktu 130 Popis produktu 130 Popis produktu 130 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img130.jpg</IMGURL>
+    <EAN>9326224527</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00131</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 131 Popis produktu 131 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img131.jpg</IMGURL>
+    <EAN>9244126528257</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00132</ITEM_ID>
+    <PRODUCT>Produkt 132</PRODUCT>
+    <DESCRIPTION>Popis produktu 132 Popis produktu 132 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img132.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00133</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img133.jpg</IMGURL>
+    <EAN>5957565692892</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00134</ITEM_ID>
+    <PRODUCT>Produkt 134</PRODUCT>
+    <DESCRIPTION>Popis produktu 134 Popis produktu 134 Popis produktu 134 Popis produktu 134 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img134.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00135</ITEM_ID>
+    <PRODUCT>Produkt 135</PRODUCT>
+    <DESCRIPTION>Popis produktu 135 Popis produktu 135 Popis produktu 135 Popis produktu 135 Popis produktu 135 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL/>
+    <EAN>4247845160940</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00136</ITEM_ID>
+    <PRODUCT>Produkt 136</PRODUCT>
+    <DESCRIPTION>Popis produktu 136 Popis produktu 136 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>7211283794388</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00137</ITEM_ID>
+    <PRODUCT>Produkt 137</PRODUCT>
+    <DESCRIPTION>Popis produktu 137 Popis produktu 137 Popis produktu 137 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img137.jpg</IMGURL>
+    <EAN>660875</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00138</ITEM_ID>
+    <PRODUCT>Produkt 138</PRODUCT>
+    <DESCRIPTION>Popis produktu 138 Popis produktu 138 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img138.jpg</IMGURL>
+    <EAN>7456896114103</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00139</ITEM_ID>
+    <PRODUCT>Produkt 139</PRODUCT>
+    <DESCRIPTION>Popis produktu 139 Popis produktu 139 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>21286620</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00140</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 140 Popis produktu 140 Popis produktu 140 Popis produktu 140 Popis produktu 140 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img140.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00141</ITEM_ID>
+    <PRODUCT>Produkt 141</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img141.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00142</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 142 Popis produktu 142 Popis produktu 142 Popis produktu 142 Popis produktu 142 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img142.jpg</IMGURL>
+    <EAN>55355309300</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00143</ITEM_ID>
+    <PRODUCT>Produkt 143</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img143.jpg</IMGURL>
+    <EAN>97030215</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00144</ITEM_ID>
+    <PRODUCT>Produkt 144</PRODUCT>
+    <DESCRIPTION>Popis produktu 144 Popis produktu 144 Popis produktu 144 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img144.jpg</IMGURL>
+    <EAN>3918926115</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00145</ITEM_ID>
+    <PRODUCT>Produkt 145</PRODUCT>
+    <DESCRIPTION>Popis produktu 145 Popis produktu 145 Popis produktu 145 Popis produktu 145 Popis produktu 145 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img145.jpg</IMGURL>
+    <EAN>3534560300319</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00146</ITEM_ID>
+    <PRODUCT>Produkt 146</PRODUCT>
+    <DESCRIPTION>Popis produktu 146 Popis produktu 146 Popis produktu 146 Popis produktu 146 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img146.jpg</IMGURL>
+    <EAN>19335376</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00147</ITEM_ID>
+    <PRODUCT>Produkt 147</PRODUCT>
+    <DESCRIPTION>Popis produktu 147 Popis produktu 147 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL/>
+    <EAN>312285901</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00148</ITEM_ID>
+    <PRODUCT>Produkt 148</PRODUCT>
+    <DESCRIPTION>Popis produktu 148 Popis produktu 148 Popis produktu 148 Popis produktu 148 Popis produktu 148 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>78081</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00149</ITEM_ID>
+    <PRODUCT>Produkt 149</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img149.jpg</IMGURL>
+    <EAN>239434</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00150</ITEM_ID>
+    <PRODUCT>Produkt 150</PRODUCT>
+    <DESCRIPTION>Popis produktu 150 Popis produktu 150 Popis produktu 150 Popis produktu 150 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img150.jpg</IMGURL>
+    <EAN>479641300</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00151</ITEM_ID>
+    <PRODUCT>Produkt 151</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img151.jpg</IMGURL>
+    <EAN>89424082561</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00152</ITEM_ID>
+    <PRODUCT>Produkt 152</PRODUCT>
+    <DESCRIPTION>Popis produktu 152 Popis produktu 152 Popis produktu 152 Popis produktu 152 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img152.jpg</IMGURL>
+    <EAN>6900106</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00153</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 153 Popis produktu 153 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img153.jpg</IMGURL>
+    <EAN>903993</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00154</ITEM_ID>
+    <PRODUCT>Produkt 154</PRODUCT>
+    <DESCRIPTION>Popis produktu 154 Popis produktu 154 Popis produktu 154 Popis produktu 154 Popis produktu 154 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img154.jpg</IMGURL>
+    <EAN>20139773591</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00155</ITEM_ID>
+    <PRODUCT>Produkt 155</PRODUCT>
+    <DESCRIPTION>Popis produktu 155 Popis produktu 155 Popis produktu 155 Popis produktu 155 Popis produktu 155 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img155.jpg</IMGURL>
+    <EAN>525319</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00156</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 156 Popis produktu 156 Popis produktu 156 Popis produktu 156 Popis produktu 156 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img156.jpg</IMGURL>
+    <EAN>69478297</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00157</ITEM_ID>
+    <PRODUCT>Produkt 157</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img157.jpg</IMGURL>
+    <EAN>865084635914</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00158</ITEM_ID>
+    <PRODUCT>Produkt 158</PRODUCT>
+    <DESCRIPTION>Popis produktu 158 Popis produktu 158 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>76679</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00159</ITEM_ID>
+    <PRODUCT>Produkt 159</PRODUCT>
+    <DESCRIPTION>Popis produktu 159 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>524692133</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00160</ITEM_ID>
+    <PRODUCT>Produkt 160</PRODUCT>
+    <DESCRIPTION>Popis produktu 160 Popis produktu 160 Popis produktu 160 Popis produktu 160 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img160.jpg</IMGURL>
+    <EAN>424575245</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00161</ITEM_ID>
+    <PRODUCT>Produkt 161</PRODUCT>
+    <DESCRIPTION>Popis produktu 161 Popis produktu 161 Popis produktu 161 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img161.jpg</IMGURL>
+    <EAN>7034088776</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00162</ITEM_ID>
+    <PRODUCT>Produkt 162</PRODUCT>
+    <DESCRIPTION>Popis produktu 162 Popis produktu 162 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>67465849612</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00163</ITEM_ID>
+    <PRODUCT>Produkt 163</PRODUCT>
+    <DESCRIPTION>Popis produktu 163 Popis produktu 163 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img163.jpg</IMGURL>
+    <EAN>7189189607</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00164</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 164 Popis produktu 164 Popis produktu 164 Popis produktu 164 Popis produktu 164 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img164.jpg</IMGURL>
+    <EAN>84754253</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00165</ITEM_ID>
+    <PRODUCT>Produkt 165</PRODUCT>
+    <DESCRIPTION>Popis produktu 165 Popis produktu 165 Popis produktu 165 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>485262</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00166</ITEM_ID>
+    <PRODUCT>Produkt 166</PRODUCT>
+    <DESCRIPTION>Popis produktu 166 Popis produktu 166 Popis produktu 166 Popis produktu 166 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img166.jpg</IMGURL>
+    <EAN>6657479733</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00167</ITEM_ID>
+    <PRODUCT>Produkt 167</PRODUCT>
+    <DESCRIPTION>Popis produktu 167 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>81498715</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00168</ITEM_ID>
+    <PRODUCT>Produkt 168</PRODUCT>
+    <DESCRIPTION>Popis produktu 168 Popis produktu 168 Popis produktu 168 Popis produktu 168 Popis produktu 168 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img168.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00169</ITEM_ID>
+    <PRODUCT>Produkt 169</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>18049962202</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00170</ITEM_ID>
+    <PRODUCT>Produkt 170</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img170.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00171</ITEM_ID>
+    <PRODUCT>Produkt 171</PRODUCT>
+    <DESCRIPTION>Popis produktu 171 Popis produktu 171 Popis produktu 171 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img171.jpg</IMGURL>
+    <EAN>869139314126</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00172</ITEM_ID>
+    <PRODUCT>Produkt 172</PRODUCT>
+    <DESCRIPTION>Popis produktu 172 Popis produktu 172 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img172.jpg</IMGURL>
+    <EAN>13515364768</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00173</ITEM_ID>
+    <PRODUCT>Produkt 173</PRODUCT>
+    <DESCRIPTION>Popis produktu 173 Popis produktu 173 Popis produktu 173 Popis produktu 173 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img173.jpg</IMGURL>
+    <EAN>1549514296423</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00174</ITEM_ID>
+    <PRODUCT>Produkt 174</PRODUCT>
+    <DESCRIPTION>Popis produktu 174 Popis produktu 174 Popis produktu 174 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img174.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00175</ITEM_ID>
+    <PRODUCT>Produkt 175</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img175.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00176</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 176 Popis produktu 176 Popis produktu 176 Popis produktu 176 Popis produktu 176 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img176.jpg</IMGURL>
+    <EAN>599835</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00177</ITEM_ID>
+    <PRODUCT>Produkt 177</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img177.jpg</IMGURL>
+    <EAN>598224706</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00178</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 178 Popis produktu 178 Popis produktu 178 Popis produktu 178 Popis produktu 178 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img178.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00179</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 179 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img179.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00180</ITEM_ID>
+    <PRODUCT>Produkt 180</PRODUCT>
+    <DESCRIPTION>Popis produktu 180 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img180.jpg</IMGURL>
+    <EAN>42866983352</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00181</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 181 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img181.jpg</IMGURL>
+    <EAN>3481800329921</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00182</ITEM_ID>
+    <PRODUCT>Produkt 182</PRODUCT>
+    <DESCRIPTION>Popis produktu 182 Popis produktu 182 Popis produktu 182 Popis produktu 182 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img182.jpg</IMGURL>
+    <EAN>997764221</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00183</ITEM_ID>
+    <PRODUCT>Produkt 183</PRODUCT>
+    <DESCRIPTION>Popis produktu 183 Popis produktu 183 Popis produktu 183 Popis produktu 183 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img183.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00184</ITEM_ID>
+    <PRODUCT>Produkt 184</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img184.jpg</IMGURL>
+    <EAN>726078297</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00185</ITEM_ID>
+    <PRODUCT>Produkt 185</PRODUCT>
+    <DESCRIPTION>Popis produktu 185 Popis produktu 185 Popis produktu 185 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img185.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00186</ITEM_ID>
+    <PRODUCT>Produkt 186</PRODUCT>
+    <DESCRIPTION>Popis produktu 186 Popis produktu 186 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img186.jpg</IMGURL>
+    <EAN>979111625496</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00187</ITEM_ID>
+    <PRODUCT>Produkt 187</PRODUCT>
+    <DESCRIPTION>Popis produktu 187 Popis produktu 187 Popis produktu 187 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img187.jpg</IMGURL>
+    <EAN>5559461175849</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00188</ITEM_ID>
+    <PRODUCT>Produkt 188</PRODUCT>
+    <DESCRIPTION>Popis produktu 188 Popis produktu 188 Popis produktu 188 Popis produktu 188 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>60236</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00189</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 189 Popis produktu 189 Popis produktu 189 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img189.jpg</IMGURL>
+    <EAN>85287757678</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00190</ITEM_ID>
+    <PRODUCT>Produkt 190</PRODUCT>
+    <DESCRIPTION>Popis produktu 190 Popis produktu 190 Popis produktu 190 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img190.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00191</ITEM_ID>
+    <PRODUCT>Produkt 191</PRODUCT>
+    <DESCRIPTION>Popis produktu 191 Popis produktu 191 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img191.jpg</IMGURL>
+    <EAN>2206230593463</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00192</ITEM_ID>
+    <PRODUCT>Produkt 192</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img192.jpg</IMGURL>
+    <EAN>3495343785976</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00193</ITEM_ID>
+    <PRODUCT>Produkt 193</PRODUCT>
+    <DESCRIPTION>Popis produktu 193 Popis produktu 193 Popis produktu 193 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img193.jpg</IMGURL>
+    <EAN>18290568</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00194</ITEM_ID>
+    <PRODUCT>Produkt 194</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00195</ITEM_ID>
+    <PRODUCT>Produkt 195</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img195.jpg</IMGURL>
+    <EAN>795670058</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00196</ITEM_ID>
+    <PRODUCT>Produkt 196</PRODUCT>
+    <DESCRIPTION>Popis produktu 196 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img196.jpg</IMGURL>
+    <EAN>942223758561</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00197</ITEM_ID>
+    <PRODUCT>Produkt 197</PRODUCT>
+    <DESCRIPTION>Popis produktu 197 Popis produktu 197 Popis produktu 197 Popis produktu 197 Popis produktu 197 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img197.jpg</IMGURL>
+    <EAN>46086</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00198</ITEM_ID>
+    <PRODUCT>Produkt 198</PRODUCT>
+    <DESCRIPTION>Popis produktu 198 Popis produktu 198 Popis produktu 198 Popis produktu 198 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img198.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00199</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 199 Popis produktu 199 Popis produktu 199 Popis produktu 199 Popis produktu 199 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img199.jpg</IMGURL>
+    <EAN>2865074262996</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00200</ITEM_ID>
+    <PRODUCT>Produkt 200</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL/>
+    <EAN>29723</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00201</ITEM_ID>
+    <PRODUCT>Produkt 201</PRODUCT>
+    <DESCRIPTION>Popis produktu 201 Popis produktu 201 Popis produktu 201 Popis produktu 201 Popis produktu 201 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>3758775106439</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00202</ITEM_ID>
+    <PRODUCT>Produkt 202</PRODUCT>
+    <DESCRIPTION>Popis produktu 202 Popis produktu 202 Popis produktu 202 Popis produktu 202 Popis produktu 202 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img202.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00203</ITEM_ID>
+    <PRODUCT>Produkt 203</PRODUCT>
+    <DESCRIPTION>Popis produktu 203 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img203.jpg</IMGURL>
+    <EAN>4202721079806</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00204</ITEM_ID>
+    <PRODUCT>Produkt 204</PRODUCT>
+    <DESCRIPTION>Popis produktu 204 Popis produktu 204 Popis produktu 204 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img204.jpg</IMGURL>
+    <EAN>756669482990</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00205</ITEM_ID>
+    <PRODUCT>Produkt 205</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00206</ITEM_ID>
+    <PRODUCT>Produkt 206</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img206.jpg</IMGURL>
+    <EAN>7396973707673</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00207</ITEM_ID>
+    <PRODUCT>Produkt 207</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img207.jpg</IMGURL>
+    <EAN>1912308</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00208</ITEM_ID>
+    <PRODUCT>Produkt 208</PRODUCT>
+    <DESCRIPTION>Popis produktu 208 Popis produktu 208 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img208.jpg</IMGURL>
+    <EAN>127985881722</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00209</ITEM_ID>
+    <PRODUCT>Produkt 209</PRODUCT>
+    <DESCRIPTION>Popis produktu 209 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img209.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00210</ITEM_ID>
+    <PRODUCT>Produkt 210</PRODUCT>
+    <DESCRIPTION>Popis produktu 210 Popis produktu 210 Popis produktu 210 Popis produktu 210 Popis produktu 210 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img210.jpg</IMGURL>
+    <EAN>8631709</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00211</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 211 Popis produktu 211 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img211.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00212</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 212 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img212.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00213</ITEM_ID>
+    <PRODUCT>Produkt 213</PRODUCT>
+    <DESCRIPTION>Popis produktu 213 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img213.jpg</IMGURL>
+    <EAN>40961</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00214</ITEM_ID>
+    <PRODUCT>Produkt 214</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img214.jpg</IMGURL>
+    <EAN>895066</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00215</ITEM_ID>
+    <PRODUCT>Produkt 215</PRODUCT>
+    <DESCRIPTION>Popis produktu 215 Popis produktu 215 Popis produktu 215 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img215.jpg</IMGURL>
+    <EAN>489300953</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00216</ITEM_ID>
+    <PRODUCT>Produkt 216</PRODUCT>
+    <DESCRIPTION>Popis produktu 216 Popis produktu 216 Popis produktu 216 Popis produktu 216 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img216.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00217</ITEM_ID>
+    <PRODUCT>Produkt 217</PRODUCT>
+    <DESCRIPTION>Popis produktu 217 Popis produktu 217 Popis produktu 217 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img217.jpg</IMGURL>
+    <EAN>3269410286110</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00218</ITEM_ID>
+    <PRODUCT>Produkt 218</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>95016795707</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00219</ITEM_ID>
+    <PRODUCT>Produkt 219</PRODUCT>
+    <DESCRIPTION>Popis produktu 219 Popis produktu 219 Popis produktu 219 Popis produktu 219 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img219.jpg</IMGURL>
+    <EAN>55129978444</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00220</ITEM_ID>
+    <PRODUCT>Produkt 220</PRODUCT>
+    <DESCRIPTION>Popis produktu 220 Popis produktu 220 Popis produktu 220 Popis produktu 220 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img220.jpg</IMGURL>
+    <EAN>79554699339</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00221</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img221.jpg</IMGURL>
+    <EAN>76297906029</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00222</ITEM_ID>
+    <PRODUCT>Produkt 222</PRODUCT>
+    <DESCRIPTION>Popis produktu 222 Popis produktu 222 Popis produktu 222 Popis produktu 222 Popis produktu 222 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img222.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00223</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 223 Popis produktu 223 Popis produktu 223 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img223.jpg</IMGURL>
+    <EAN>4727761</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00224</ITEM_ID>
+    <PRODUCT>Produkt 224</PRODUCT>
+    <DESCRIPTION>Popis produktu 224 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img224.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00225</ITEM_ID>
+    <PRODUCT>Produkt 225</PRODUCT>
+    <DESCRIPTION>Popis produktu 225 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img225.jpg</IMGURL>
+    <EAN>955113102838</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00226</ITEM_ID>
+    <PRODUCT>Produkt 226</PRODUCT>
+    <DESCRIPTION>Popis produktu 226 Popis produktu 226 Popis produktu 226 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img226.jpg</IMGURL>
+    <EAN>3764937449</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00227</ITEM_ID>
+    <PRODUCT>Produkt 227</PRODUCT>
+    <DESCRIPTION>Popis produktu 227 Popis produktu 227 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img227.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00228</ITEM_ID>
+    <PRODUCT>Produkt 228</PRODUCT>
+    <DESCRIPTION>Popis produktu 228 Popis produktu 228 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img228.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00229</ITEM_ID>
+    <PRODUCT>Produkt 229</PRODUCT>
+    <DESCRIPTION>Popis produktu 229 Popis produktu 229 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img229.jpg</IMGURL>
+    <EAN>62058313</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00230</ITEM_ID>
+    <PRODUCT>Produkt 230</PRODUCT>
+    <DESCRIPTION>Popis produktu 230 Popis produktu 230 Popis produktu 230 Popis produktu 230 Popis produktu 230 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>3355716539</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00231</ITEM_ID>
+    <PRODUCT>Produkt 231</PRODUCT>
+    <DESCRIPTION>Popis produktu 231 Popis produktu 231 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img231.jpg</IMGURL>
+    <EAN>86854253915</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00232</ITEM_ID>
+    <PRODUCT>Produkt 232</PRODUCT>
+    <DESCRIPTION>Popis produktu 232 Popis produktu 232 Popis produktu 232 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img232.jpg</IMGURL>
+    <EAN>74211740</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00233</ITEM_ID>
+    <PRODUCT>Produkt 233</PRODUCT>
+    <DESCRIPTION>Popis produktu 233 Popis produktu 233 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img233.jpg</IMGURL>
+    <EAN>3150769029579</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00234</ITEM_ID>
+    <PRODUCT>Produkt 234</PRODUCT>
+    <DESCRIPTION>Popis produktu 234 Popis produktu 234 Popis produktu 234 Popis produktu 234 Popis produktu 234 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img234.jpg</IMGURL>
+    <EAN>625094</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00235</ITEM_ID>
+    <PRODUCT>Produkt 235</PRODUCT>
+    <DESCRIPTION>Popis produktu 235 Popis produktu 235 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img235.jpg</IMGURL>
+    <EAN>619169786029</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00236</ITEM_ID>
+    <PRODUCT>Produkt 236</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img236.jpg</IMGURL>
+    <EAN>24559</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00237</ITEM_ID>
+    <PRODUCT>Produkt 237</PRODUCT>
+    <DESCRIPTION>Popis produktu 237 Popis produktu 237 Popis produktu 237 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img237.jpg</IMGURL>
+    <EAN>4715386273664</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00238</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 238 Popis produktu 238 Popis produktu 238 Popis produktu 238 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>5857313</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00239</ITEM_ID>
+    <PRODUCT>Produkt 239</PRODUCT>
+    <DESCRIPTION>Popis produktu 239 Popis produktu 239 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img239.jpg</IMGURL>
+    <EAN>7025403</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00240</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 240 Popis produktu 240 Popis produktu 240 Popis produktu 240 Popis produktu 240 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img240.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00241</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img241.jpg</IMGURL>
+    <EAN>88232</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00242</ITEM_ID>
+    <PRODUCT>Produkt 242</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>7172920665117</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00243</ITEM_ID>
+    <PRODUCT>Produkt 243</PRODUCT>
+    <DESCRIPTION>Popis produktu 243 Popis produktu 243 Popis produktu 243 Popis produktu 243 Popis produktu 243 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img243.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00244</ITEM_ID>
+    <PRODUCT>Produkt 244</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img244.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00245</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img245.jpg</IMGURL>
+    <EAN>186141</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00246</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 246 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img246.jpg</IMGURL>
+    <EAN>611511</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00247</ITEM_ID>
+    <PRODUCT>Produkt 247</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img247.jpg</IMGURL>
+    <EAN>195744884601</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00248</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 248 Popis produktu 248 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img248.jpg</IMGURL>
+    <EAN>3397989</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00249</ITEM_ID>
+    <PRODUCT>Produkt 249</PRODUCT>
+    <DESCRIPTION>Popis produktu 249 Popis produktu 249 Popis produktu 249 Popis produktu 249 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img249.jpg</IMGURL>
+    <EAN>143239</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00250</ITEM_ID>
+    <PRODUCT>Produkt 250</PRODUCT>
+    <DESCRIPTION>Popis produktu 250 Popis produktu 250 Popis produktu 250 Popis produktu 250 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>92374</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00251</ITEM_ID>
+    <PRODUCT>Produkt 251</PRODUCT>
+    <DESCRIPTION>Popis produktu 251 Popis produktu 251 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img251.jpg</IMGURL>
+    <EAN>82352958907</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00252</ITEM_ID>
+    <PRODUCT>Produkt 252</PRODUCT>
+    <DESCRIPTION>Popis produktu 252 Popis produktu 252 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img252.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00253</ITEM_ID>
+    <PRODUCT>Produkt 253</PRODUCT>
+    <DESCRIPTION>Popis produktu 253 Popis produktu 253 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>4681645</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00254</ITEM_ID>
+    <PRODUCT>Produkt 254</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img254.jpg</IMGURL>
+    <EAN>3101394</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00255</ITEM_ID>
+    <PRODUCT>Produkt 255</PRODUCT>
+    <DESCRIPTION>Popis produktu 255 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img255.jpg</IMGURL>
+    <EAN>97970</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00256</ITEM_ID>
+    <PRODUCT>Produkt 256</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img256.jpg</IMGURL>
+    <EAN>3054472</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00257</ITEM_ID>
+    <PRODUCT>Produkt 257</PRODUCT>
+    <DESCRIPTION>Popis produktu 257 Popis produktu 257 Popis produktu 257 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img257.jpg</IMGURL>
+    <EAN>38983</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00258</ITEM_ID>
+    <PRODUCT>Produkt 258</PRODUCT>
+    <DESCRIPTION>Popis produktu 258 Popis produktu 258 Popis produktu 258 Popis produktu 258 Popis produktu 258 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img258.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00259</ITEM_ID>
+    <PRODUCT>Produkt 259</PRODUCT>
+    <DESCRIPTION>Popis produktu 259 Popis produktu 259 Popis produktu 259 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img259.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00260</ITEM_ID>
+    <PRODUCT>Produkt 260</PRODUCT>
+    <DESCRIPTION>Popis produktu 260 Popis produktu 260 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img260.jpg</IMGURL>
+    <EAN>698859</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00261</ITEM_ID>
+    <PRODUCT>Produkt 261</PRODUCT>
+    <DESCRIPTION>Popis produktu 261 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img261.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00262</ITEM_ID>
+    <PRODUCT>Produkt 262</PRODUCT>
+    <DESCRIPTION>Popis produktu 262 Popis produktu 262 Popis produktu 262 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img262.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00263</ITEM_ID>
+    <PRODUCT>Produkt 263</PRODUCT>
+    <DESCRIPTION>Popis produktu 263 Popis produktu 263 Popis produktu 263 Popis produktu 263 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img263.jpg</IMGURL>
+    <EAN>880119777</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00264</ITEM_ID>
+    <PRODUCT>Produkt 264</PRODUCT>
+    <DESCRIPTION>Popis produktu 264 Popis produktu 264 Popis produktu 264 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img264.jpg</IMGURL>
+    <EAN>148712</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00265</ITEM_ID>
+    <PRODUCT>Produkt 265</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img265.jpg</IMGURL>
+    <EAN>2205433743513</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00266</ITEM_ID>
+    <PRODUCT>Produkt 266</PRODUCT>
+    <DESCRIPTION>Popis produktu 266 Popis produktu 266 Popis produktu 266 Popis produktu 266 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>58542</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00267</ITEM_ID>
+    <PRODUCT>Produkt 267</PRODUCT>
+    <DESCRIPTION>Popis produktu 267 Popis produktu 267 Popis produktu 267 Popis produktu 267 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img267.jpg</IMGURL>
+    <EAN>4418304267248</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00268</ITEM_ID>
+    <PRODUCT>Produkt 268</PRODUCT>
+    <DESCRIPTION>Popis produktu 268 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img268.jpg</IMGURL>
+    <EAN>6815848111</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00269</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 269 Popis produktu 269 Popis produktu 269 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img269.jpg</IMGURL>
+    <EAN>40388876524</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00270</ITEM_ID>
+    <PRODUCT>Produkt 270</PRODUCT>
+    <DESCRIPTION>Popis produktu 270 Popis produktu 270 Popis produktu 270 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img270.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00271</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 271 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>6896841622015</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00272</ITEM_ID>
+    <PRODUCT>Produkt 272</PRODUCT>
+    <DESCRIPTION>Popis produktu 272 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img272.jpg</IMGURL>
+    <EAN>2681387340</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00273</ITEM_ID>
+    <PRODUCT>Produkt 273</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00274</ITEM_ID>
+    <PRODUCT>Produkt 274</PRODUCT>
+    <DESCRIPTION>Popis produktu 274 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img274.jpg</IMGURL>
+    <EAN>423635999</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00275</ITEM_ID>
+    <PRODUCT>Produkt 275</PRODUCT>
+    <DESCRIPTION>Popis produktu 275 Popis produktu 275 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img275.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00276</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 276 Popis produktu 276 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>1829571055</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00277</ITEM_ID>
+    <PRODUCT>Produkt 277</PRODUCT>
+    <DESCRIPTION>Popis produktu 277 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img277.jpg</IMGURL>
+    <EAN>933053223</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00278</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 278 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img278.jpg</IMGURL>
+    <EAN>2719748796631</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00279</ITEM_ID>
+    <PRODUCT>Produkt 279</PRODUCT>
+    <DESCRIPTION>Popis produktu 279 Popis produktu 279 Popis produktu 279 Popis produktu 279 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img279.jpg</IMGURL>
+    <EAN>595273451</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00280</ITEM_ID>
+    <PRODUCT>Produkt 280</PRODUCT>
+    <DESCRIPTION>Popis produktu 280 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>454512616</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00281</ITEM_ID>
+    <PRODUCT>Produkt 281</PRODUCT>
+    <DESCRIPTION>Popis produktu 281 Popis produktu 281 Popis produktu 281 Popis produktu 281 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img281.jpg</IMGURL>
+    <EAN>2824523465</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00282</ITEM_ID>
+    <PRODUCT>Produkt 282</PRODUCT>
+    <DESCRIPTION>Popis produktu 282 Popis produktu 282 Popis produktu 282 Popis produktu 282 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img282.jpg</IMGURL>
+    <EAN>179834187321</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00283</ITEM_ID>
+    <PRODUCT>Produkt 283</PRODUCT>
+    <DESCRIPTION>Popis produktu 283 Popis produktu 283 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img283.jpg</IMGURL>
+    <EAN>5070237242</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00284</ITEM_ID>
+    <PRODUCT>Produkt 284</PRODUCT>
+    <DESCRIPTION>Popis produktu 284 Popis produktu 284 Popis produktu 284 Popis produktu 284 Popis produktu 284 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img284.jpg</IMGURL>
+    <EAN>703151</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00285</ITEM_ID>
+    <PRODUCT>Produkt 285</PRODUCT>
+    <DESCRIPTION>Popis produktu 285 Popis produktu 285 Popis produktu 285 Popis produktu 285 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img285.jpg</IMGURL>
+    <EAN>85921417</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00286</ITEM_ID>
+    <PRODUCT>Produkt 286</PRODUCT>
+    <DESCRIPTION>Popis produktu 286 Popis produktu 286 Popis produktu 286 Popis produktu 286 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>2578801704698</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00287</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 287 Popis produktu 287 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img287.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00288</ITEM_ID>
+    <PRODUCT>Produkt 288</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img288.jpg</IMGURL>
+    <EAN>48026</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00289</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 289 Popis produktu 289 Popis produktu 289 Popis produktu 289 Popis produktu 289 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img289.jpg</IMGURL>
+    <EAN>773498660</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00290</ITEM_ID>
+    <PRODUCT>Produkt 290</PRODUCT>
+    <DESCRIPTION>Popis produktu 290 Popis produktu 290 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>371495678</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00291</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 291 Popis produktu 291 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img291.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00292</ITEM_ID>
+    <PRODUCT>Produkt 292</PRODUCT>
+    <DESCRIPTION>Popis produktu 292 Popis produktu 292 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img292.jpg</IMGURL>
+    <EAN>72068471348</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00293</ITEM_ID>
+    <PRODUCT>Produkt 293</PRODUCT>
+    <DESCRIPTION>Popis produktu 293 Popis produktu 293 Popis produktu 293 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img293.jpg</IMGURL>
+    <EAN>881990</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00294</ITEM_ID>
+    <PRODUCT>Produkt 294</PRODUCT>
+    <DESCRIPTION>Popis produktu 294 Popis produktu 294 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>19289743</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00295</ITEM_ID>
+    <PRODUCT>Produkt 295</PRODUCT>
+    <DESCRIPTION>Popis produktu 295 Popis produktu 295 Popis produktu 295 Popis produktu 295 Popis produktu 295 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img295.jpg</IMGURL>
+    <EAN>4555318393</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00296</ITEM_ID>
+    <PRODUCT>Produkt 296</PRODUCT>
+    <DESCRIPTION>Popis produktu 296 Popis produktu 296 Popis produktu 296 Popis produktu 296 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img296.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00297</ITEM_ID>
+    <PRODUCT>Produkt 297</PRODUCT>
+    <DESCRIPTION>Popis produktu 297 Popis produktu 297 Popis produktu 297 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img297.jpg</IMGURL>
+    <EAN>6951657140</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00298</ITEM_ID>
+    <PRODUCT>Produkt 298</PRODUCT>
+    <DESCRIPTION>Popis produktu 298 Popis produktu 298 Popis produktu 298 Popis produktu 298 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img298.jpg</IMGURL>
+    <EAN>8318566507383</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00299</ITEM_ID>
+    <PRODUCT>Produkt 299</PRODUCT>
+    <DESCRIPTION>Popis produktu 299 Popis produktu 299 Popis produktu 299 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img299.jpg</IMGURL>
+    <EAN>43242</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00300</ITEM_ID>
+    <PRODUCT>Produkt 300</PRODUCT>
+    <DESCRIPTION>Popis produktu 300 Popis produktu 300 Popis produktu 300 Popis produktu 300 Popis produktu 300 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img300.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00301</ITEM_ID>
+    <PRODUCT>Produkt 301</PRODUCT>
+    <DESCRIPTION>Popis produktu 301 Popis produktu 301 Popis produktu 301 Popis produktu 301 Popis produktu 301 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img301.jpg</IMGURL>
+    <EAN>6193827</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00302</ITEM_ID>
+    <PRODUCT>Produkt 302</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img302.jpg</IMGURL>
+    <EAN>9150624792132</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00303</ITEM_ID>
+    <PRODUCT>Produkt 303</PRODUCT>
+    <DESCRIPTION>Popis produktu 303 Popis produktu 303 Popis produktu 303 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img303.jpg</IMGURL>
+    <EAN>4590429</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00304</ITEM_ID>
+    <PRODUCT>Produkt 304</PRODUCT>
+    <DESCRIPTION>Popis produktu 304 Popis produktu 304 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img304.jpg</IMGURL>
+    <EAN>4873492</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00305</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 305 Popis produktu 305 Popis produktu 305 Popis produktu 305 Popis produktu 305 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img305.jpg</IMGURL>
+    <EAN>6914186</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00306</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 306 Popis produktu 306 Popis produktu 306 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>46490285</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00307</ITEM_ID>
+    <PRODUCT>Produkt 307</PRODUCT>
+    <DESCRIPTION>Popis produktu 307 Popis produktu 307 Popis produktu 307 Popis produktu 307 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img307.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00308</ITEM_ID>
+    <PRODUCT>Produkt 308</PRODUCT>
+    <DESCRIPTION>Popis produktu 308 Popis produktu 308 Popis produktu 308 Popis produktu 308 Popis produktu 308 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>335841547957</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00309</ITEM_ID>
+    <PRODUCT>Produkt 309</PRODUCT>
+    <DESCRIPTION>Popis produktu 309 Popis produktu 309 Popis produktu 309 Popis produktu 309 Popis produktu 309 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img309.jpg</IMGURL>
+    <EAN>47978364563</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00310</ITEM_ID>
+    <PRODUCT>Produkt 310</PRODUCT>
+    <DESCRIPTION>Popis produktu 310 Popis produktu 310 Popis produktu 310 Popis produktu 310 Popis produktu 310 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img310.jpg</IMGURL>
+    <EAN>6995175</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00311</ITEM_ID>
+    <PRODUCT>Produkt 311</PRODUCT>
+    <DESCRIPTION>Popis produktu 311 Popis produktu 311 Popis produktu 311 Popis produktu 311 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img311.jpg</IMGURL>
+    <EAN>288965</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00312</ITEM_ID>
+    <PRODUCT>Produkt 312</PRODUCT>
+    <DESCRIPTION>Popis produktu 312 Popis produktu 312 Popis produktu 312 Popis produktu 312 Popis produktu 312 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00313</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 313 Popis produktu 313 Popis produktu 313 Popis produktu 313 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img313.jpg</IMGURL>
+    <EAN>691335878016</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00314</ITEM_ID>
+    <PRODUCT>Produkt 314</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img314.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00315</ITEM_ID>
+    <PRODUCT>Produkt 315</PRODUCT>
+    <DESCRIPTION>Popis produktu 315 Popis produktu 315 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img315.jpg</IMGURL>
+    <EAN>507673</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00316</ITEM_ID>
+    <PRODUCT>Produkt 316</PRODUCT>
+    <DESCRIPTION>Popis produktu 316 Popis produktu 316 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img316.jpg</IMGURL>
+    <EAN>8168366725536</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00317</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 317 Popis produktu 317 Popis produktu 317 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img317.jpg</IMGURL>
+    <EAN>545912775</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00318</ITEM_ID>
+    <PRODUCT>Produkt 318</PRODUCT>
+    <DESCRIPTION>Popis produktu 318 Popis produktu 318 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img318.jpg</IMGURL>
+    <EAN>7099165840259</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00319</ITEM_ID>
+    <PRODUCT>Produkt 319</PRODUCT>
+    <DESCRIPTION>Popis produktu 319 Popis produktu 319 Popis produktu 319 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img319.jpg</IMGURL>
+    <EAN>842967</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00320</ITEM_ID>
+    <PRODUCT>Produkt 320</PRODUCT>
+    <DESCRIPTION>Popis produktu 320 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img320.jpg</IMGURL>
+    <EAN>73514</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00321</ITEM_ID>
+    <PRODUCT>Produkt 321</PRODUCT>
+    <DESCRIPTION>Popis produktu 321 Popis produktu 321 Popis produktu 321 Popis produktu 321 Popis produktu 321 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>12322329600</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00322</ITEM_ID>
+    <PRODUCT>Produkt 322</PRODUCT>
+    <DESCRIPTION>Popis produktu 322 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img322.jpg</IMGURL>
+    <EAN>579252336</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00323</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 323 Popis produktu 323 Popis produktu 323 Popis produktu 323 Popis produktu 323 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img323.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00324</ITEM_ID>
+    <PRODUCT>Produkt 324</PRODUCT>
+    <DESCRIPTION>Popis produktu 324 Popis produktu 324 Popis produktu 324 Popis produktu 324 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00325</ITEM_ID>
+    <PRODUCT>Produkt 325</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img325.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00326</ITEM_ID>
+    <PRODUCT>Produkt 326</PRODUCT>
+    <DESCRIPTION>Popis produktu 326 Popis produktu 326 Popis produktu 326 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img326.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00327</ITEM_ID>
+    <PRODUCT>Produkt 327</PRODUCT>
+    <DESCRIPTION>Popis produktu 327 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img327.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00328</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 328 Popis produktu 328 Popis produktu 328 Popis produktu 328 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img328.jpg</IMGURL>
+    <EAN>433231410</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00329</ITEM_ID>
+    <PRODUCT>Produkt 329</PRODUCT>
+    <DESCRIPTION>Popis produktu 329 Popis produktu 329 Popis produktu 329 Popis produktu 329 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img329.jpg</IMGURL>
+    <EAN>8636649634723</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00330</ITEM_ID>
+    <PRODUCT>Produkt 330</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>76646</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00331</ITEM_ID>
+    <PRODUCT>Produkt 331</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img331.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00332</ITEM_ID>
+    <PRODUCT>Produkt 332</PRODUCT>
+    <DESCRIPTION>Popis produktu 332 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img332.jpg</IMGURL>
+    <EAN>27713</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00333</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 333 Popis produktu 333 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img333.jpg</IMGURL>
+    <EAN>480478424574</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00334</ITEM_ID>
+    <PRODUCT>Produkt 334</PRODUCT>
+    <DESCRIPTION>Popis produktu 334 Popis produktu 334 Popis produktu 334 Popis produktu 334 Popis produktu 334 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img334.jpg</IMGURL>
+    <EAN>2488404465605</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00335</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 335 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img335.jpg</IMGURL>
+    <EAN>4924492883643</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00336</ITEM_ID>
+    <PRODUCT>Produkt 336</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img336.jpg</IMGURL>
+    <EAN>5572150376</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00337</ITEM_ID>
+    <PRODUCT>Produkt 337</PRODUCT>
+    <DESCRIPTION>Popis produktu 337 Popis produktu 337 Popis produktu 337 Popis produktu 337 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00338</ITEM_ID>
+    <PRODUCT>Produkt 338</PRODUCT>
+    <DESCRIPTION>Popis produktu 338 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img338.jpg</IMGURL>
+    <EAN>628095740374</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00339</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 339 Popis produktu 339 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>55757564966</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00340</ITEM_ID>
+    <PRODUCT>Produkt 340</PRODUCT>
+    <DESCRIPTION>Popis produktu 340 Popis produktu 340 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img340.jpg</IMGURL>
+    <EAN>54933665194</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00341</ITEM_ID>
+    <PRODUCT>Produkt 341</PRODUCT>
+    <DESCRIPTION>Popis produktu 341 Popis produktu 341 Popis produktu 341 Popis produktu 341 Popis produktu 341 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img341.jpg</IMGURL>
+    <EAN>284865697</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00342</ITEM_ID>
+    <PRODUCT>Produkt 342</PRODUCT>
+    <DESCRIPTION>Popis produktu 342 Popis produktu 342 Popis produktu 342 Popis produktu 342 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img342.jpg</IMGURL>
+    <EAN>380725800230</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00343</ITEM_ID>
+    <PRODUCT>Produkt 343</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>360574</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00344</ITEM_ID>
+    <PRODUCT>Produkt 344</PRODUCT>
+    <DESCRIPTION>Popis produktu 344 Popis produktu 344 Popis produktu 344 Popis produktu 344 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img344.jpg</IMGURL>
+    <EAN>60106232328</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00345</ITEM_ID>
+    <PRODUCT>Produkt 345</PRODUCT>
+    <DESCRIPTION>Popis produktu 345 Popis produktu 345 Popis produktu 345 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img345.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00346</ITEM_ID>
+    <PRODUCT>Produkt 346</PRODUCT>
+    <DESCRIPTION>Popis produktu 346 Popis produktu 346 Popis produktu 346 Popis produktu 346 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img346.jpg</IMGURL>
+    <EAN>899731383457</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00347</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 347 Popis produktu 347 Popis produktu 347 Popis produktu 347 Popis produktu 347 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>19931426</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00348</ITEM_ID>
+    <PRODUCT>Produkt 348</PRODUCT>
+    <DESCRIPTION>Popis produktu 348 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img348.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00349</ITEM_ID>
+    <PRODUCT>Produkt 349</PRODUCT>
+    <DESCRIPTION>Popis produktu 349 Popis produktu 349 Popis produktu 349 Popis produktu 349 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img349.jpg</IMGURL>
+    <EAN>9852386897</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00350</ITEM_ID>
+    <PRODUCT>Produkt 350</PRODUCT>
+    <DESCRIPTION>Popis produktu 350 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img350.jpg</IMGURL>
+    <EAN>233872</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00351</ITEM_ID>
+    <PRODUCT>Produkt 351</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img351.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00352</ITEM_ID>
+    <PRODUCT>Produkt 352</PRODUCT>
+    <DESCRIPTION>Popis produktu 352 Popis produktu 352 Popis produktu 352 Popis produktu 352 Popis produktu 352 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img352.jpg</IMGURL>
+    <EAN>58164164</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00353</ITEM_ID>
+    <PRODUCT>Produkt 353</PRODUCT>
+    <DESCRIPTION>Popis produktu 353 Popis produktu 353 Popis produktu 353 Popis produktu 353 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img353.jpg</IMGURL>
+    <EAN>8162650008</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00354</ITEM_ID>
+    <PRODUCT>Produkt 354</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img354.jpg</IMGURL>
+    <EAN>55383453</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00355</ITEM_ID>
+    <PRODUCT>Produkt 355</PRODUCT>
+    <DESCRIPTION>Popis produktu 355 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img355.jpg</IMGURL>
+    <EAN>46378649</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00356</ITEM_ID>
+    <PRODUCT>Produkt 356</PRODUCT>
+    <DESCRIPTION>Popis produktu 356 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img356.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00357</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 357 Popis produktu 357 Popis produktu 357 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img357.jpg</IMGURL>
+    <EAN>50417655</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00358</ITEM_ID>
+    <PRODUCT>Produkt 358</PRODUCT>
+    <DESCRIPTION>Popis produktu 358 Popis produktu 358 Popis produktu 358 Popis produktu 358 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img358.jpg</IMGURL>
+    <EAN>462024415342</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00359</ITEM_ID>
+    <PRODUCT>Produkt 359</PRODUCT>
+    <DESCRIPTION>Popis produktu 359 Popis produktu 359 Popis produktu 359 Popis produktu 359 Popis produktu 359 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>57102421</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00360</ITEM_ID>
+    <PRODUCT>Produkt 360</PRODUCT>
+    <DESCRIPTION>Popis produktu 360 Popis produktu 360 Popis produktu 360 Popis produktu 360 Popis produktu 360 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img360.jpg</IMGURL>
+    <EAN>464373</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00361</ITEM_ID>
+    <PRODUCT>Produkt 361</PRODUCT>
+    <DESCRIPTION>Popis produktu 361 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img361.jpg</IMGURL>
+    <EAN>552039</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00362</ITEM_ID>
+    <PRODUCT>Produkt 362</PRODUCT>
+    <DESCRIPTION>Popis produktu 362 Popis produktu 362 Popis produktu 362 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img362.jpg</IMGURL>
+    <EAN>6218300495404</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00363</ITEM_ID>
+    <PRODUCT>Produkt 363</PRODUCT>
+    <DESCRIPTION>Popis produktu 363 Popis produktu 363 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img363.jpg</IMGURL>
+    <EAN>8564365502</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00364</ITEM_ID>
+    <PRODUCT>Produkt 364</PRODUCT>
+    <DESCRIPTION>Popis produktu 364 Popis produktu 364 Popis produktu 364 Popis produktu 364 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img364.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00365</ITEM_ID>
+    <PRODUCT>Produkt 365</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img365.jpg</IMGURL>
+    <EAN>4985368222908</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00366</ITEM_ID>
+    <PRODUCT>Produkt 366</PRODUCT>
+    <DESCRIPTION>Popis produktu 366 Popis produktu 366 Popis produktu 366 Popis produktu 366 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img366.jpg</IMGURL>
+    <EAN>6463460</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00367</ITEM_ID>
+    <PRODUCT>Produkt 367</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img367.jpg</IMGURL>
+    <EAN>97295</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00368</ITEM_ID>
+    <PRODUCT>Produkt 368</PRODUCT>
+    <DESCRIPTION>Popis produktu 368 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img368.jpg</IMGURL>
+    <EAN>462244289</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00369</ITEM_ID>
+    <PRODUCT>Produkt 369</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img369.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00370</ITEM_ID>
+    <PRODUCT>Produkt 370</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img370.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00371</ITEM_ID>
+    <PRODUCT>Produkt 371</PRODUCT>
+    <DESCRIPTION>Popis produktu 371 Popis produktu 371 Popis produktu 371 Popis produktu 371 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img371.jpg</IMGURL>
+    <EAN>5384820708358</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00372</ITEM_ID>
+    <PRODUCT>Produkt 372</PRODUCT>
+    <DESCRIPTION>Popis produktu 372 Popis produktu 372 Popis produktu 372 Popis produktu 372 Popis produktu 372 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img372.jpg</IMGURL>
+    <EAN>95277481735</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00373</ITEM_ID>
+    <PRODUCT>Produkt 373</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img373.jpg</IMGURL>
+    <EAN>91940</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00374</ITEM_ID>
+    <PRODUCT>Produkt 374</PRODUCT>
+    <DESCRIPTION>Popis produktu 374 Popis produktu 374 Popis produktu 374 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img374.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00375</ITEM_ID>
+    <PRODUCT>Produkt 375</PRODUCT>
+    <DESCRIPTION>Popis produktu 375 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img375.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00376</ITEM_ID>
+    <PRODUCT>Produkt 376</PRODUCT>
+    <DESCRIPTION>Popis produktu 376 Popis produktu 376 Popis produktu 376 Popis produktu 376 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img376.jpg</IMGURL>
+    <EAN>31438</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00377</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 377 Popis produktu 377 Popis produktu 377 Popis produktu 377 Popis produktu 377 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>5128993509488</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00378</ITEM_ID>
+    <PRODUCT>Produkt 378</PRODUCT>
+    <DESCRIPTION>Popis produktu 378 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img378.jpg</IMGURL>
+    <EAN>85616558</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00379</ITEM_ID>
+    <PRODUCT>Produkt 379</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img379.jpg</IMGURL>
+    <EAN>2013091777158</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00380</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 380 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img380.jpg</IMGURL>
+    <EAN>164428</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00381</ITEM_ID>
+    <PRODUCT>Produkt 381</PRODUCT>
+    <DESCRIPTION>Popis produktu 381 Popis produktu 381 Popis produktu 381 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img381.jpg</IMGURL>
+    <EAN>413652972425</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00382</ITEM_ID>
+    <PRODUCT>Produkt 382</PRODUCT>
+    <DESCRIPTION>Popis produktu 382 Popis produktu 382 Popis produktu 382 Popis produktu 382 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img382.jpg</IMGURL>
+    <EAN>259422992453</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00383</ITEM_ID>
+    <PRODUCT>Produkt 383</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img383.jpg</IMGURL>
+    <EAN>1488150685</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00384</ITEM_ID>
+    <PRODUCT>Produkt 384</PRODUCT>
+    <DESCRIPTION>Popis produktu 384 Popis produktu 384 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img384.jpg</IMGURL>
+    <EAN>24998911</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00385</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img385.jpg</IMGURL>
+    <EAN>5517035522251</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00386</ITEM_ID>
+    <PRODUCT>Produkt 386</PRODUCT>
+    <DESCRIPTION>Popis produktu 386 Popis produktu 386 Popis produktu 386 Popis produktu 386 Popis produktu 386 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img386.jpg</IMGURL>
+    <EAN>330472817543</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00387</ITEM_ID>
+    <PRODUCT>Produkt 387</PRODUCT>
+    <DESCRIPTION>Popis produktu 387 Popis produktu 387 Popis produktu 387 Popis produktu 387 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img387.jpg</IMGURL>
+    <EAN>64383976526</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00388</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 388 Popis produktu 388 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img388.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00389</ITEM_ID>
+    <PRODUCT>Produkt 389</PRODUCT>
+    <DESCRIPTION>Popis produktu 389 Popis produktu 389 Popis produktu 389 Popis produktu 389 Popis produktu 389 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img389.jpg</IMGURL>
+    <EAN>43685</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00390</ITEM_ID>
+    <PRODUCT>Produkt 390</PRODUCT>
+    <DESCRIPTION>Popis produktu 390 Popis produktu 390 Popis produktu 390 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img390.jpg</IMGURL>
+    <EAN>139649796449</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00391</ITEM_ID>
+    <PRODUCT>Produkt 391</PRODUCT>
+    <DESCRIPTION>Popis produktu 391 Popis produktu 391 Popis produktu 391 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img391.jpg</IMGURL>
+    <EAN>5576844604</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00392</ITEM_ID>
+    <PRODUCT>Produkt 392</PRODUCT>
+    <DESCRIPTION>Popis produktu 392 Popis produktu 392 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>78416260373</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00393</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 393 Popis produktu 393 Popis produktu 393 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img393.jpg</IMGURL>
+    <EAN>2326704413516</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00394</ITEM_ID>
+    <PRODUCT>Produkt 394</PRODUCT>
+    <DESCRIPTION>Popis produktu 394 Popis produktu 394 Popis produktu 394 Popis produktu 394 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img394.jpg</IMGURL>
+    <EAN>715386627257</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00395</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 395 Popis produktu 395 Popis produktu 395 Popis produktu 395 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img395.jpg</IMGURL>
+    <EAN>17473063</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00396</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 396 Popis produktu 396 Popis produktu 396 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img396.jpg</IMGURL>
+    <EAN>734067226280</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00397</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 397 Popis produktu 397 Popis produktu 397 Popis produktu 397 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img397.jpg</IMGURL>
+    <EAN>2721677898275</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00398</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 398 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img398.jpg</IMGURL>
+    <EAN>9780945215313</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00399</ITEM_ID>
+    <PRODUCT>Produkt 399</PRODUCT>
+    <DESCRIPTION>Popis produktu 399 Popis produktu 399 Popis produktu 399 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>3141909691665</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00400</ITEM_ID>
+    <PRODUCT>Produkt 400</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00401</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 401 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img401.jpg</IMGURL>
+    <EAN>52907941</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00402</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 402 Popis produktu 402 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img402.jpg</IMGURL>
+    <EAN>4006404158714</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00403</ITEM_ID>
+    <PRODUCT>Produkt 403</PRODUCT>
+    <DESCRIPTION>Popis produktu 403 Popis produktu 403 Popis produktu 403 Popis produktu 403 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img403.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00404</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 404 Popis produktu 404 Popis produktu 404 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img404.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00405</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 405 Popis produktu 405 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img405.jpg</IMGURL>
+    <EAN>763387800310</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00406</ITEM_ID>
+    <PRODUCT>Produkt 406</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img406.jpg</IMGURL>
+    <EAN>730745</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00407</ITEM_ID>
+    <PRODUCT>Produkt 407</PRODUCT>
+    <DESCRIPTION>Popis produktu 407 Popis produktu 407 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img407.jpg</IMGURL>
+    <EAN>3261500111894</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00408</ITEM_ID>
+    <PRODUCT>Produkt 408</PRODUCT>
+    <DESCRIPTION>Popis produktu 408 Popis produktu 408 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>508438</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00409</ITEM_ID>
+    <PRODUCT>Produkt 409</PRODUCT>
+    <DESCRIPTION>Popis produktu 409 Popis produktu 409 Popis produktu 409 Popis produktu 409 Popis produktu 409 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img409.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00410</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 410 Popis produktu 410 Popis produktu 410 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img410.jpg</IMGURL>
+    <EAN>4973154277</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00411</ITEM_ID>
+    <PRODUCT>Produkt 411</PRODUCT>
+    <DESCRIPTION>Popis produktu 411 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img411.jpg</IMGURL>
+    <EAN>538084</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00412</ITEM_ID>
+    <PRODUCT>Produkt 412</PRODUCT>
+    <DESCRIPTION>Popis produktu 412 Popis produktu 412 Popis produktu 412 Popis produktu 412 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img412.jpg</IMGURL>
+    <EAN>1874827512631</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00413</ITEM_ID>
+    <PRODUCT>Produkt 413</PRODUCT>
+    <DESCRIPTION>Popis produktu 413 Popis produktu 413 Popis produktu 413 Popis produktu 413 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img413.jpg</IMGURL>
+    <EAN>6830892694</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00414</ITEM_ID>
+    <PRODUCT>Produkt 414</PRODUCT>
+    <DESCRIPTION>Popis produktu 414 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img414.jpg</IMGURL>
+    <EAN>879051863124</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00415</ITEM_ID>
+    <PRODUCT>Produkt 415</PRODUCT>
+    <DESCRIPTION>Popis produktu 415 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img415.jpg</IMGURL>
+    <EAN>81756</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00416</ITEM_ID>
+    <PRODUCT>Produkt 416</PRODUCT>
+    <DESCRIPTION>Popis produktu 416 Popis produktu 416 Popis produktu 416 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img416.jpg</IMGURL>
+    <EAN>6239980174532</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00417</ITEM_ID>
+    <PRODUCT>Produkt 417</PRODUCT>
+    <DESCRIPTION>Popis produktu 417 Popis produktu 417 Popis produktu 417 Popis produktu 417 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img417.jpg</IMGURL>
+    <EAN>647810488</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00418</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 418 Popis produktu 418 Popis produktu 418 Popis produktu 418 Popis produktu 418 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img418.jpg</IMGURL>
+    <EAN>36167</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00419</ITEM_ID>
+    <PRODUCT>Produkt 419</PRODUCT>
+    <DESCRIPTION>Popis produktu 419 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img419.jpg</IMGURL>
+    <EAN>959681</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00420</ITEM_ID>
+    <PRODUCT>Produkt 420</PRODUCT>
+    <DESCRIPTION>Popis produktu 420 Popis produktu 420 Popis produktu 420 Popis produktu 420 Popis produktu 420 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img420.jpg</IMGURL>
+    <EAN>6309500034334</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00421</ITEM_ID>
+    <PRODUCT>Produkt 421</PRODUCT>
+    <DESCRIPTION>Popis produktu 421 Popis produktu 421 Popis produktu 421 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img421.jpg</IMGURL>
+    <EAN>512450</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00422</ITEM_ID>
+    <PRODUCT>Produkt 422</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img422.jpg</IMGURL>
+    <EAN>898761</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00423</ITEM_ID>
+    <PRODUCT>Produkt 423</PRODUCT>
+    <DESCRIPTION>Popis produktu 423 Popis produktu 423 Popis produktu 423 Popis produktu 423 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img423.jpg</IMGURL>
+    <EAN>514132647857</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00424</ITEM_ID>
+    <PRODUCT>Produkt 424</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img424.jpg</IMGURL>
+    <EAN>31172186</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00425</ITEM_ID>
+    <PRODUCT>Produkt 425</PRODUCT>
+    <DESCRIPTION>Popis produktu 425 Popis produktu 425 Popis produktu 425 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img425.jpg</IMGURL>
+    <EAN>2014368446337</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00426</ITEM_ID>
+    <PRODUCT>Produkt 426</PRODUCT>
+    <DESCRIPTION>Popis produktu 426 Popis produktu 426 Popis produktu 426 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>3484306</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00427</ITEM_ID>
+    <PRODUCT>Produkt 427</PRODUCT>
+    <DESCRIPTION>Popis produktu 427 Popis produktu 427 Popis produktu 427 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img427.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00428</ITEM_ID>
+    <PRODUCT>Produkt 428</PRODUCT>
+    <DESCRIPTION>Popis produktu 428 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img428.jpg</IMGURL>
+    <EAN>512234875801</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00429</ITEM_ID>
+    <PRODUCT>Produkt 429</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL/>
+    <EAN>76968313026</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00430</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 430 Popis produktu 430 Popis produktu 430 Popis produktu 430 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00431</ITEM_ID>
+    <PRODUCT>Produkt 431</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img431.jpg</IMGURL>
+    <EAN>635962197</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00432</ITEM_ID>
+    <PRODUCT>Produkt 432</PRODUCT>
+    <DESCRIPTION>Popis produktu 432 Popis produktu 432 Popis produktu 432 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img432.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00433</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>54416</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00434</ITEM_ID>
+    <PRODUCT>Produkt 434</PRODUCT>
+    <DESCRIPTION>Popis produktu 434 Popis produktu 434 Popis produktu 434 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>700856</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00435</ITEM_ID>
+    <PRODUCT>Produkt 435</PRODUCT>
+    <DESCRIPTION>Popis produktu 435 Popis produktu 435 Popis produktu 435 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img435.jpg</IMGURL>
+    <EAN>144656874</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00436</ITEM_ID>
+    <PRODUCT>Produkt 436</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL/>
+    <EAN>45413</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00437</ITEM_ID>
+    <PRODUCT>Produkt 437</PRODUCT>
+    <DESCRIPTION>Popis produktu 437 Popis produktu 437 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00438</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 438 Popis produktu 438 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img438.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00439</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img439.jpg</IMGURL>
+    <EAN>281568</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00440</ITEM_ID>
+    <PRODUCT>Produkt 440</PRODUCT>
+    <DESCRIPTION>Popis produktu 440 Popis produktu 440 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img440.jpg</IMGURL>
+    <EAN>68722011</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00441</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 441 Popis produktu 441 Popis produktu 441 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img441.jpg</IMGURL>
+    <EAN>85315</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00442</ITEM_ID>
+    <PRODUCT>Produkt 442</PRODUCT>
+    <DESCRIPTION>Popis produktu 442 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img442.jpg</IMGURL>
+    <EAN>2328600594685</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00443</ITEM_ID>
+    <PRODUCT>Produkt 443</PRODUCT>
+    <DESCRIPTION>Popis produktu 443 Popis produktu 443 Popis produktu 443 Popis produktu 443 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>743689364</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00444</ITEM_ID>
+    <PRODUCT>Produkt 444</PRODUCT>
+    <DESCRIPTION>Popis produktu 444 Popis produktu 444 Popis produktu 444 Popis produktu 444 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>842808</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00445</ITEM_ID>
+    <PRODUCT>Produkt 445</PRODUCT>
+    <DESCRIPTION>Popis produktu 445 Popis produktu 445 Popis produktu 445 Popis produktu 445 Popis produktu 445 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img445.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00446</ITEM_ID>
+    <PRODUCT>Produkt 446</PRODUCT>
+    <DESCRIPTION>Popis produktu 446 Popis produktu 446 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL/>
+    <EAN>610871277</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00447</ITEM_ID>
+    <PRODUCT>Produkt 447</PRODUCT>
+    <DESCRIPTION>Popis produktu 447 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img447.jpg</IMGURL>
+    <EAN>215520140548</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00448</ITEM_ID>
+    <PRODUCT>Produkt 448</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img448.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00449</ITEM_ID>
+    <PRODUCT>Produkt 449</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img449.jpg</IMGURL>
+    <EAN>1947381</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00450</ITEM_ID>
+    <PRODUCT>Produkt 450</PRODUCT>
+    <DESCRIPTION>Popis produktu 450 Popis produktu 450 Popis produktu 450 Popis produktu 450 Popis produktu 450 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL/>
+    <EAN/>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00451</ITEM_ID>
+    <PRODUCT>Produkt 451</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img451.jpg</IMGURL>
+    <EAN>269948</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00452</ITEM_ID>
+    <PRODUCT>Produkt 452</PRODUCT>
+    <DESCRIPTION>Popis produktu 452 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img452.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00453</ITEM_ID>
+    <PRODUCT>Produkt 453</PRODUCT>
+    <DESCRIPTION>Popis produktu 453 Popis produktu 453 Popis produktu 453 Popis produktu 453 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img453.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00454</ITEM_ID>
+    <PRODUCT>Produkt 454</PRODUCT>
+    <DESCRIPTION>Popis produktu 454 Popis produktu 454 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img454.jpg</IMGURL>
+    <EAN>759614184</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00455</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 455 Popis produktu 455 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img455.jpg</IMGURL>
+    <EAN>577262732273</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00456</ITEM_ID>
+    <PRODUCT>Produkt 456</PRODUCT>
+    <DESCRIPTION>Popis produktu 456 Popis produktu 456 Popis produktu 456 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img456.jpg</IMGURL>
+    <EAN>20106419</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00457</ITEM_ID>
+    <PRODUCT>Produkt 457</PRODUCT>
+    <DESCRIPTION>Popis produktu 457 Popis produktu 457 Popis produktu 457 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img457.jpg</IMGURL>
+    <EAN>7368277218635</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00458</ITEM_ID>
+    <PRODUCT>Produkt 458</PRODUCT>
+    <DESCRIPTION>Popis produktu 458 Popis produktu 458 Popis produktu 458 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img458.jpg</IMGURL>
+    <EAN>5935077927482</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00459</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img459.jpg</IMGURL>
+    <EAN>2726775528748</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00460</ITEM_ID>
+    <PRODUCT>Produkt 460</PRODUCT>
+    <DESCRIPTION>Popis produktu 460 Popis produktu 460 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>773308</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00461</ITEM_ID>
+    <PRODUCT>Produkt 461</PRODUCT>
+    <DESCRIPTION>Popis produktu 461 Popis produktu 461 Popis produktu 461 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img461.jpg</IMGURL>
+    <EAN>194605</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00462</ITEM_ID>
+    <PRODUCT>Produkt 462</PRODUCT>
+    <DESCRIPTION>Popis produktu 462 Popis produktu 462 Popis produktu 462 Popis produktu 462 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img462.jpg</IMGURL>
+    <EAN>92008725881</EAN>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00463</ITEM_ID>
+    <PRODUCT>Produkt 463</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>613950118094</EAN>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00464</ITEM_ID>
+    <PRODUCT>Produkt 464</PRODUCT>
+    <DESCRIPTION>Popis produktu 464 Popis produktu 464 Popis produktu 464 Popis produktu 464 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>2581967352123</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00465</ITEM_ID>
+    <PRODUCT>Produkt 465</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL/>
+    <EAN>868824198</EAN>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00466</ITEM_ID>
+    <PRODUCT>Produkt 466</PRODUCT>
+    <DESCRIPTION>Popis produktu 466 Popis produktu 466 Popis produktu 466 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img466.jpg</IMGURL>
+    <EAN>2741828207479</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00467</ITEM_ID>
+    <PRODUCT>Produkt 467</PRODUCT>
+    <DESCRIPTION>Popis produktu 467 Popis produktu 467 Popis produktu 467 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img467.jpg</IMGURL>
+    <EAN>269408224615</EAN>
+    <MANUFACTURER>Značka7</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00468</ITEM_ID>
+    <PRODUCT>Produkt 468</PRODUCT>
+    <DESCRIPTION>Popis produktu 468 Popis produktu 468 Popis produktu 468 Popis produktu 468 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img468.jpg</IMGURL>
+    <EAN>377136540017</EAN>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00469</ITEM_ID>
+    <PRODUCT>Produkt 469</PRODUCT>
+    <DESCRIPTION>Popis produktu 469 Popis produktu 469 Popis produktu 469 Popis produktu 469 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img469.jpg</IMGURL>
+    <EAN>65512</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00470</ITEM_ID>
+    <PRODUCT>Produkt 470</PRODUCT>
+    <DESCRIPTION>Popis produktu 470 Popis produktu 470 Popis produktu 470 Popis produktu 470 Popis produktu 470 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>102790</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00471</ITEM_ID>
+    <PRODUCT>Produkt 471</PRODUCT>
+    <DESCRIPTION>Popis produktu 471 Popis produktu 471 Popis produktu 471 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img471.jpg</IMGURL>
+    <EAN>991213706813</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00472</ITEM_ID>
+    <PRODUCT>Produkt 472</PRODUCT>
+    <DESCRIPTION>Popis produktu 472 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL/>
+    <EAN>57720</EAN>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00473</ITEM_ID>
+    <PRODUCT>Produkt 473</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>7743966223</EAN>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00474</ITEM_ID>
+    <PRODUCT>Produkt 474</PRODUCT>
+    <DESCRIPTION>Popis produktu 474 Popis produktu 474 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img474.jpg</IMGURL>
+    <EAN>53905933467</EAN>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00475</ITEM_ID>
+    <PRODUCT>Produkt 475</PRODUCT>
+    <DESCRIPTION>Popis produktu 475 Popis produktu 475 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img475.jpg</IMGURL>
+    <EAN>3009881058108</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00476</ITEM_ID>
+    <PRODUCT>Produkt 476</PRODUCT>
+    <DESCRIPTION>Popis produktu 476 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL/>
+    <EAN>3634355</EAN>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00477</ITEM_ID>
+    <PRODUCT>Produkt 477</PRODUCT>
+    <DESCRIPTION>Popis produktu 477 Popis produktu 477 Popis produktu 477 Popis produktu 477 Popis produktu 477 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img477.jpg</IMGURL>
+    <EAN>30426182</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00478</ITEM_ID>
+    <PRODUCT>Produkt 478</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img478.jpg</IMGURL>
+    <EAN>31704861</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00479</ITEM_ID>
+    <PRODUCT>Produkt 479</PRODUCT>
+    <DESCRIPTION>Popis produktu 479 Popis produktu 479 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img479.jpg</IMGURL>
+    <EAN>1691929</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00480</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 480 Popis produktu 480 Popis produktu 480 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img480.jpg</IMGURL>
+    <EAN>568657</EAN>
+    <MANUFACTURER>Značka0</MANUFACTURER>
+    <CATEGORYTEXT>Kategória0</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00481</ITEM_ID>
+    <PRODUCT>Produkt 481</PRODUCT>
+    <DESCRIPTION>Popis produktu 481 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img481.jpg</IMGURL>
+    <EAN>623888</EAN>
+    <MANUFACTURER>Značka1</MANUFACTURER>
+    <CATEGORYTEXT>Kategória1</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00482</ITEM_ID>
+    <PRODUCT>Produkt 482</PRODUCT>
+    <DESCRIPTION>Popis produktu 482 Popis produktu 482 Popis produktu 482 Popis produktu 482 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img482.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka2</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00483</ITEM_ID>
+    <PRODUCT>Produkt 483</PRODUCT>
+    <DESCRIPTION>Popis produktu 483 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img483.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka3</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00484</ITEM_ID>
+    <PRODUCT>Produkt 484</PRODUCT>
+    <DESCRIPTION>Popis produktu 484 Popis produktu 484 Popis produktu 484 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img484.jpg</IMGURL>
+    <EAN>33111911</EAN>
+    <MANUFACTURER>Značka4</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00485</ITEM_ID>
+    <PRODUCT>Produkt 485</PRODUCT>
+    <DESCRIPTION>Popis produktu 485 Popis produktu 485 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img485.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka5</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00486</ITEM_ID>
+    <PRODUCT>Produkt 486</PRODUCT>
+    <DESCRIPTION>Popis produktu 486 Popis produktu 486 </DESCRIPTION>
+    <PRICE_VAT>0.01</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img486.jpg</IMGURL>
+    <EAN>9065990</EAN>
+    <MANUFACTURER>Značka6</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00487</ITEM_ID>
+    <PRODUCT>Produkt 487</PRODUCT>
+    <DESCRIPTION>Popis produktu 487 Popis produktu 487 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img487.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER/>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00488</ITEM_ID>
+    <PRODUCT>Produkt 488</PRODUCT>
+    <DESCRIPTION>Popis produktu 488 </DESCRIPTION>
+    <PRICE_VAT>100.0</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img488.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka8</MANUFACTURER>
+    <CATEGORYTEXT>Kategória8</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00489</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 489 Popis produktu 489 Popis produktu 489 Popis produktu 489 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img489.jpg</IMGURL>
+    <EAN>529572567</EAN>
+    <MANUFACTURER>Značka9</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00490</ITEM_ID>
+    <PRODUCT>Produkt 490</PRODUCT>
+    <DESCRIPTION/>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img490.jpg</IMGURL>
+    <EAN>769609416</EAN>
+    <MANUFACTURER>Značka10</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00491</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 491 Popis produktu 491 Popis produktu 491 Popis produktu 491 </DESCRIPTION>
+    <PRICE_VAT>5.99</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img491.jpg</IMGURL>
+    <EAN>3509256045960</EAN>
+    <MANUFACTURER>Značka11</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00492</ITEM_ID>
+    <PRODUCT>Produkt 492</PRODUCT>
+    <DESCRIPTION>Popis produktu 492 Popis produktu 492 Popis produktu 492 Popis produktu 492 Popis produktu 492 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img492.jpg</IMGURL>
+    <EAN>44871</EAN>
+    <MANUFACTURER>Značka12</MANUFACTURER>
+    <CATEGORYTEXT>Kategória2</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00493</ITEM_ID>
+    <PRODUCT>Produkt 493</PRODUCT>
+    <DESCRIPTION>Popis produktu 493 Popis produktu 493 Popis produktu 493 </DESCRIPTION>
+    <PRICE_VAT>0.5</PRICE_VAT>
+    <IMGURL>https://tvojeshop.sk/images/img493.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka13</MANUFACTURER>
+    <CATEGORYTEXT>Kategória3</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00494</ITEM_ID>
+    <PRODUCT>Produkt 494</PRODUCT>
+    <DESCRIPTION>Popis produktu 494 Popis produktu 494 Popis produktu 494 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img494.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka14</MANUFACTURER>
+    <CATEGORYTEXT>Kategória4</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00495</ITEM_ID>
+    <PRODUCT>Produkt 495</PRODUCT>
+    <DESCRIPTION>Popis produktu 495 Popis produktu 495 </DESCRIPTION>
+    <PRICE_VAT>0.0</PRICE_VAT>
+    <IMGURL>https://externaldomain.com/images/img495.jpg</IMGURL>
+    <EAN>864501754947</EAN>
+    <MANUFACTURER>Značka15</MANUFACTURER>
+    <CATEGORYTEXT>Kategória5</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00496</ITEM_ID>
+    <PRODUCT>Produkt 496</PRODUCT>
+    <DESCRIPTION>Popis produktu 496 Popis produktu 496 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img496.jpg</IMGURL>
+    <EAN/>
+    <MANUFACTURER>Značka16</MANUFACTURER>
+    <CATEGORYTEXT>Kategória6</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00497</ITEM_ID>
+    <PRODUCT>Produkt 497</PRODUCT>
+    <DESCRIPTION>Popis produktu 497 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img497.jpg</IMGURL>
+    <EAN>115172424647</EAN>
+    <MANUFACTURER>Značka17</MANUFACTURER>
+    <CATEGORYTEXT>Kategória7</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00498</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION/>
+    <PRICE_VAT/>
+    <IMGURL>https://externaldomain.com/images/img498.jpg</IMGURL>
+    <EAN>6497572969</EAN>
+    <MANUFACTURER>Značka18</MANUFACTURER>
+    <CATEGORYTEXT/>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ITEM00499</ITEM_ID>
+    <PRODUCT/>
+    <DESCRIPTION>Popis produktu 499 Popis produktu 499 </DESCRIPTION>
+    <PRICE_VAT/>
+    <IMGURL>https://tvojeshop.sk/images/img499.jpg</IMGURL>
+    <EAN>886524</EAN>
+    <MANUFACTURER>Značka19</MANUFACTURER>
+    <CATEGORYTEXT>Kategória9</CATEGORYTEXT>
+  </SHOPITEM>
+</SHOP>

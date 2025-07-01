@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+	<SHOPITEM>
+		<ITEM_ID>1001</ITEM_ID>
+		<DESCRIPTION>Popis bez názvu a obrázka</DESCRIPTION>
+		<PRICE_VAT>59.99</PRICE_VAT>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>1002</ITEM_ID>
+		<PRODUCT>Reťaz na motor</PRODUCT>
+		<DESCRIPTION>Reťaz na motor</DESCRIPTION>
+		<PRICE_VAT>19.90</PRICE_VAT>
+		<IMGURL>https://externy-obrazok.sk/image.jpg</IMGURL>
+		<EAN></EAN>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>1003</ITEM_ID>
+		<PRODUCT>Kožená bunda</PRODUCT>
+		<DESCRIPTION>
+			<b>Kvalita</b>
+		</DESCRIPTION>
+		<PRICE_VAT>0</PRICE_VAT>
+		<IMGURL>https://www.mojeshop.sk/images/bunda1.jpg</IMGURL>
+		<EAN>1234567890123</EAN>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>1004</ITEM_ID>
+		<PRODUCT>Kožená bunda</PRODUCT>
+		<DESCRIPTION>Kožená bunda z hovädzej kože pre náročných jazdcov.</DESCRIPTION>
+		<PRICE_VAT>89.90</PRICE_VAT>
+		<IMGURL>https://www.mojeshop.sk/images/bunda1.jpg</IMGURL>
+		<EAN>1234567890124</EAN>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>1005</ITEM_ID>
+		<PRODUCT>Bunda veľká XL extra dlhý názov testovacieho produktu pre kontrolu</PRODUCT>
+		<DESCRIPTION>
+			Toto je veľmi dlhý popis testovacieho produktu, ktorý má viac ako 160 znakov.
+			Cieľom je overiť, že audit správne identifikuje túto chybu a zobrazí ju vo výsledkoch.
+		</DESCRIPTION>
+		<PRICE_VAT>149.90</PRICE_VAT>
+		<IMGURL>https://www.mojeshop.sk/images/bunda5.jpg</IMGURL>
+	</SHOPITEM>
+</SHOP>
