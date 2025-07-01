@@ -23,7 +23,7 @@ last_feed_type = ""
 
 @app.get("/", response_class=HTMLResponse)
 async def index(request: Request):
-    # Prazdny formular, bez vysledkov
+    # Return empty form, no results
     return templates.TemplateResponse("index.html", {
         "request": request,
         "audit": {},
@@ -34,32 +34,11 @@ async def index(request: Request):
 async def upload_feed(request: Request, feed_file: UploadFile = File(...)):
     global last_audit_result, last_feed_path, last_feed_type
 
-    # Ulozime uploadnuty subor do temp suboru
+    # Save uploaded file to temp file
     _, ext = os.path.splitext(feed_file.filename.lower())
     suffix = ext if ext in [".xml", ".csv"] else ".xml"
     with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
         shutil.copyfileobj(feed_file.file, tmp)
-        tmp_path = tmp.name
-
-    result = await run_audit(tmp_path)
-    last_audit_result = result
-    last_feed_path = tmp_path
-    last_feed_type = result.get("typ_feedu", "")
-
-    return templates.TemplateResponse("results.html", {
-        "request": request,
-        "audit": result,
-        "feed_url": "upload"
-    })
-
-@app.post("/upload-feed", response_class=HTMLResponse)
-async def upload_feed_alt(request: Request, feedfile: UploadFile = File(...)):
-    global last_audit_result, last_feed_path, last_feed_type
-
-    _, ext = os.path.splitext(feedfile.filename.lower())
-    suffix = ext if ext in [".xml", ".csv"] else ".xml"
-    with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
-        shutil.copyfileobj(feedfile.file, tmp)
         tmp_path = tmp.name
 
     result = await run_audit(tmp_path)
