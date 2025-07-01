@@ -3,11 +3,11 @@ import csv
 import io
 
 def rozpoznaj_typ_feedu(content: str) -> str:
-    # Najprv sa pokúsime rozpozna ako XML
+    # Najprv sa pokÃºsime rozpoznaÅ¥ ako XML
     try:
         root = ET.fromstring(content)
 
-        # Shoptet XML má root tag "SHOP" a pod ním "SHOPITEM"
+        # Shoptet XML mÃ¡ root tag "SHOP" a pod nÃ­m "SHOPITEM"
         if root.tag.upper() == "SHOP" and root.find("SHOPITEM") is not None:
             return "shoptet"
 
@@ -19,14 +19,14 @@ def rozpoznaj_typ_feedu(content: str) -> str:
 
         return "neznamy"
     except ET.ParseError:
-        pass  # Nie je XML, skúsime CSV
+        pass  # Nie je XML, skÃºsime CSV
 
     # Pokus o rozpoznanie CSV
     try:
         csv_reader = csv.reader(io.StringIO(content))
         headers = next(csv_reader)
 
-        # WooCommerce CSV má zvyèajne tieto ståpce:
+        # WooCommerce CSV mÃ¡ zvyÄajne tieto stÄºpce:
         woo_headers = {"ID", "Name", "Type", "SKU", "Regular price", "Categories"}
         if any(h in headers for h in woo_headers):
             return "woocommerce_csv"
