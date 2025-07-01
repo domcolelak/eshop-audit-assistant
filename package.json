@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss -i ./app/static/input.css -o ./app/static/styles/output.css --watch"
+    "build": "tailwindcss -i ./app/static/input.css -o ./app/static/styles/output.css",
+    "postinstall": "npm run build"
   },
   "keywords": [],
   "author": "",
