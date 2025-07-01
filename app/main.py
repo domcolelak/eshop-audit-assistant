@@ -23,7 +23,7 @@ last_feed_type = ""
 
 @app.get("/", response_class=HTMLResponse)
 async def index(request: Request):
-    # Prázdny formulár, bez výsledkov
+    # Pr zdny formul r, bez v sledkov
     return templates.TemplateResponse("index.html", {
         "request": request,
         "audit": {},
@@ -34,7 +34,7 @@ async def index(request: Request):
 async def upload_feed(request: Request, feed_file: UploadFile = File(...)):
     global last_audit_result, last_feed_path, last_feed_type
 
-    # Uložíme uploadnutý súbor do temp súboru
+    # Ulo  me uploadnut  s bor do temp s boru
     _, ext = os.path.splitext(feed_file.filename.lower())
     suffix = ext if ext in [".xml", ".csv"] else ".xml"
     with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
