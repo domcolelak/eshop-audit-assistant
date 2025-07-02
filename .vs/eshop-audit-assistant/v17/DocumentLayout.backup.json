@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\README.md||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\repair_suggestions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\templates\\repair_suggestions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\repair_suggestions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\templates\\repair_suggestions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\audit.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\audit.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\README.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\results.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\detekcia.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\detekcia.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\audit.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\audit.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\shoptet_admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -85,24 +89,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:51:29.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-07-01T10:59:54.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "detekcia.py",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\detekcia.py",
               "RelativeDocumentMoniker": "app\\detekcia.py",
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "tailwind.config.js",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\tailwind.config.js",
               "RelativeDocumentMoniker": "tailwind.config.js",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "output.css",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\static\\styles\\output.css",
               "RelativeDocumentMoniker": "app\\static\\styles\\output.css",
@@ -152,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "audit_original.py",
               "DocumentMoniker": "C:\\Users\\16dom\\Downloads\\audit_original.py",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\audit_original.py",
@@ -164,20 +181,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "audit.py",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\audit.py",
               "RelativeDocumentMoniker": "app\\audit.py",
               "ToolTip": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\audit.py",
               "RelativeToolTip": "app\\audit.py",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAkwA0BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-06-26T11:14:23.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "shoptet_admin.html",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\shoptet_admin.html",
               "RelativeDocumentMoniker": "app\\templates\\shoptet_admin.html",
@@ -189,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "results.html",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\results.html",
               "RelativeDocumentMoniker": "app\\templates\\results.html",
@@ -197,12 +214,11 @@
               "RelativeToolTip": "app\\templates\\results.html",
               "ViewState": "AgIAAFgAAAAAAAAAAAAUwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-12T10:47:06.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T10:47:06.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\index.html",
               "RelativeDocumentMoniker": "app\\templates\\index.html",
@@ -210,12 +226,11 @@
               "RelativeToolTip": "app\\templates\\index.html",
               "ViewState": "AgIAAF4AAAAAAAAAAAAYwHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-12T10:42:16.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T10:42:16.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "postcss.config.js",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\postcss.config.js",
               "RelativeDocumentMoniker": "postcss.config.js",
@@ -227,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "input.css",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\static\\input.css",
               "RelativeDocumentMoniker": "app\\static\\input.css",
@@ -239,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "tailwind.config.js",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\tailwind.config.js",
               "RelativeDocumentMoniker": "app\\tailwind.config.js",
@@ -250,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\package.json",
               "RelativeDocumentMoniker": "app\\package.json",
@@ -262,33 +277,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "repair_suggestions.html",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\repair_suggestions.html",
               "RelativeDocumentMoniker": "app\\templates\\repair_suggestions.html",
               "ToolTip": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\templates\\repair_suggestions.html",
               "RelativeToolTip": "app\\templates\\repair_suggestions.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAQwIkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-06-12T07:50:30.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.py",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\main.py",
               "RelativeDocumentMoniker": "app\\main.py",
               "ToolTip": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\main.py",
               "RelativeToolTip": "app\\main.py",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAkwJIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAiwJ8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-06-12T07:47:47.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "repair_assistant.py",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\app\\repair_assistant.py",
               "RelativeDocumentMoniker": "app\\repair_assistant.py",
@@ -296,12 +311,11 @@
               "RelativeToolTip": "app\\repair_assistant.py",
               "ViewState": "AgIAAB0AAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-06-12T07:46:41.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T07:46:41.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "vercel.json",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\vercel.json",
               "RelativeDocumentMoniker": "vercel.json",
@@ -313,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "requirements.txt",
               "DocumentMoniker": "C:\\Users\\16dom\\OneDrive\\Po\u010D\u00EDta\u010D\\eshop-audit-assistant\\requirements.txt",
               "RelativeDocumentMoniker": "requirements.txt",
