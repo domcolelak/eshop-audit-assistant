@@ -24,9 +24,9 @@
             border: none;
         }
 
-        .repair-button:hover {
-            background-color: #4338ca; /* indigo-700 */
-        }
+            .repair-button:hover {
+                background-color: #4338ca; /* indigo-700 */
+            }
 
         ul.list-disc li {
             overflow: visible !important; /* zabezpečí, že rodič neoreže deti */
@@ -37,9 +37,9 @@
             font-style: italic;
             color: #374151; /* gray-700 */
             white-space: pre-wrap;
-            max-height: 500px;       /* väčšia maximálna výška pre návrhy */
-            overflow-y: auto;        /* vertikálny scrollbar ak je text dlhý */
-            padding-right: 0.5rem;   /* padding pre lepšiu čitateľnosť scrollbar-u */
+            max-height: 500px; /* väčšia maximálna výška pre návrhy */
+            overflow-y: auto; /* vertikálny scrollbar ak je text dlhý */
+            padding-right: 0.5rem; /* padding pre lepšiu čitateľnosť scrollbar-u */
             border: 1px solid #d1d5db; /* jemný rámik pre lepšiu čitateľnosť */
             border-radius: 0.25rem;
             background-color: #f9fafb; /* svetlý podklad */
@@ -72,7 +72,8 @@
         <div class="space-y-6">
             {% for kategoria, chyby in navrhy.items() %}
             <section x-data="{ open: true }"
-                     class="bg-gradient-to-br from-indigo-50 to-white border-l-4 border-indigo-500 shadow-md rounded-lg overflow-hidden">
+                     class="bg-gradient-to-br from-indigo-50 to-white border-l-4 border-indigo-500 shadow-md rounded-lg">
+                <!-- odstraněno overflow-hidden -->
                 <header @click="open = !open"
                         class="flex justify-between items-center px-6 py-4 cursor-pointer select-none focus:outline-none focus:ring-2 focus:ring-indigo-400">
                     <div class="flex items-center gap-2">
@@ -87,9 +88,9 @@
                 <div x-show="open" class="px-6 pb-6 pt-2 border-t border-indigo-300">
                     <ul class="list-disc ml-6 space-y-6 text-gray-800 text-sm">
                         {% for item in chyby %}
-                        <li>
+                        <li style="overflow: visible;">
                             <strong class="block">{{ item.id }} – {{ item.nazov }}</strong>
-                            <p class="text-gray-600">{{ item.navrh }}</p>
+                            <p class="text-gray-600 repair-result">{{ item.navrh }}</p>
                             <button class="repair-button"
                                     data-kategoria="{{ kategoria }}"
                                     data-id="{{ item.id }}"
