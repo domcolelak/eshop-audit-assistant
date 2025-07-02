@@ -12,6 +12,31 @@
         body {
             font-family: 'Inter', sans-serif;
         }
+
+        .repair-button {
+            background-color: #4f46e5; /* indigo-600 */
+            color: white;
+            padding: 0.3rem 0.75rem;
+            border-radius: 0.375rem;
+            font-size: 0.875rem;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            border: none;
+        }
+
+        .repair-button:hover {
+            background-color: #4338ca; /* indigo-700 */
+        }
+
+        .repair-result {
+            margin-top: 0.5rem;
+            font-style: italic;
+            color: #374151; /* gray-700 */
+            white-space: pre-wrap;
+            max-height: 150px;       /* maximálna výška bloku */
+            overflow-y: auto;        /* vertikálny scrollbar ak je text dlhý */
+            padding-right: 0.5rem;   /* padding pre lepšiu čitateľnosť scrollbar-u */
+        }
     </style>
 </head>
 <body class="bg-gray-100 text-gray-800 min-h-screen">
@@ -53,11 +78,19 @@
                     <svg x-show="!open" data-lucide="chevron-down" class="w-6 h-6 text-indigo-600"></svg>
                 </header>
                 <div x-show="open" class="px-6 pb-6 pt-2 border-t border-indigo-300">
-                    <ul class="list-disc ml-6 space-y-3 text-gray-800 text-sm">
+                    <ul class="list-disc ml-6 space-y-6 text-gray-800 text-sm">
                         {% for item in chyby %}
                         <li>
                             <strong class="block">{{ item.id }} – {{ item.nazov }}</strong>
                             <p class="text-gray-600">{{ item.navrh }}</p>
+                            <button class="repair-button"
+                                    data-kategoria="{{ kategoria }}"
+                                    data-id="{{ item.id }}"
+                                    data-nazov="{{ item.nazov }}"
+                                    onclick="generateRepair(this)">
+                                Navrhni opravu
+                            </button>
+                            <p class="repair-result" id="repair-result-{{ kategoria | replace(' ', '-') }}-{{ item.id | replace(' ', '-') }}"></p>
                         </li>
                         {% endfor %}
                     </ul>
@@ -74,6 +107,34 @@
 
     <script>
         lucide.createIcons();
+
+        async function generateRepair(button) {
+            const kategoria = button.getAttribute('data-kategoria');
+            const id = button.getAttribute('data-id');
+            const nazov = button.getAttribute('data-nazov');
+            const resultP = document.getElementById(`repair-result-${kategoria.replace(/\s+/g, '-')}-${id.replace(/\s+/g, '-')}`);
+
+            resultP.textContent = '🕐 Načítavam návrh opravy...';
+
+            try {
+                const formData = new FormData();
+                formData.append('kategoria', kategoria);
+                formData.append('produkt_id', id);
+                formData.append('nazov', nazov);
+
+                const response = await fetch('/api/generate-repair', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (!response.ok) throw new Error('Chyba servera');
+                const data = await response.json();
+                resultP.textContent = data.navrh || 'Žiadny návrh dostupný.';
+            } catch (error) {
+                resultP.textContent = '❌ Chyba pri získavaní návrhu opravy.';
+                console.error(error);
+            }
+        }
     </script>
 </body>
 </html>

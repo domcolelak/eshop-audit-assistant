@@ -1,5 +1,5 @@
-from fastapi import FastAPI, Request, UploadFile, File
-from fastapi.responses import HTMLResponse, StreamingResponse
+from fastapi import FastAPI, Request, UploadFile, File, Form
+from fastapi.responses import HTMLResponse, StreamingResponse, JSONResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 
@@ -11,6 +11,12 @@ import io
 import os
 import tempfile
 import shutil
+import traceback
+from openai import OpenAI
+from dotenv import load_dotenv
+
+# Načítaj .env súbor do prostredia
+load_dotenv()
 
 app = FastAPI()
 
@@ -20,6 +26,9 @@ app.mount("/static", StaticFiles(directory="app/static"), name="static")
 last_audit_result = {}
 last_feed_path = ""
 last_feed_type = ""
+
+# Inicializuj OpenAI klienta
+client = OpenAI()
 
 @app.get("/", response_class=HTMLResponse)
 async def index(request: Request):
@@ -34,7 +43,6 @@ async def index(request: Request):
 async def upload_feed(request: Request, feed_file: UploadFile = File(...)):
     global last_audit_result, last_feed_path, last_feed_type
 
-    # Save uploaded file to temp file
     _, ext = os.path.splitext(feed_file.filename.lower())
     suffix = ext if ext in [".xml", ".csv"] else ".xml"
     with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
@@ -123,3 +131,29 @@ async def repair_suggestions(request: Request):
         "request": request,
         "navrhy": navrhy
     })
+
+@app.post("/api/generate-repair")
+async def generate_repair(kategoria: str = Form(...), produkt_id: str = Form(...), nazov: str = Form(...)):
+    if not os.getenv("OPENAI_API_KEY"):
+        return JSONResponse(status_code=500, content={"error": "OpenAI API key not configured"})
+
+    prompt = (
+        f"Produkt ID: {produkt_id}\n"
+        f"Názov produktu: {nazov}\n"
+        f"Kategória chyby: {kategoria}\n\n"
+        "Navrhni stručný a jasný návrh opravy tejto chyby v produktovom feede e-shopu."
+    )
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.2,
+            max_tokens=150,
+        )
+        navrh = response.choices[0].message.content.strip()
+    except Exception as e:
+        traceback.print_exc()
+        return JSONResponse(status_code=500, content={"error": f"OpenAI API error: {str(e)}"})
+
+    return {"navrh": navrh}
