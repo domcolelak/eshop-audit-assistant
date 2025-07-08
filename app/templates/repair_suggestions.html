@@ -28,21 +28,28 @@
                 background-color: #4338ca; /* indigo-700 */
             }
 
-        ul.list-disc li {
-            overflow: visible !important; /* zabezpečí, že rodič neoreže deti */
+        ul.list-disc {
+            overflow: visible !important;
         }
+
+            ul.list-disc li {
+                overflow: visible !important;
+            }
 
         .repair-result {
             margin-top: 0.5rem;
             font-style: italic;
             color: #374151; /* gray-700 */
             white-space: pre-wrap;
-            max-height: 500px; /* väčšia maximálna výška pre návrhy */
-            overflow-y: auto; /* vertikálny scrollbar ak je text dlhý */
-            padding-right: 0.5rem; /* padding pre lepšiu čitateľnosť scrollbar-u */
-            border: 1px solid #d1d5db; /* jemný rámik pre lepšiu čitateľnosť */
+            max-height: 500px; /* dostatočne veľká maximálna výška */
+            min-height: 80px; /* minimálna výška pre lepší vzhľad */
+            overflow-y: auto; /* vertikálny scrollbar */
+            padding: 0.5rem; /* väčší padding */
+            border: 1px solid #d1d5db; /* jemný rámik */
             border-radius: 0.25rem;
             background-color: #f9fafb; /* svetlý podklad */
+            word-break: break-word; /* zlomenie dlhých slov */
+            box-sizing: border-box; /* padding nezväčšuje box */
         }
     </style>
 </head>
@@ -86,11 +93,11 @@
                     <svg x-show="!open" data-lucide="chevron-down" class="w-6 h-6 text-indigo-600"></svg>
                 </header>
                 <div x-show="open" class="px-6 pb-6 pt-2 border-t border-indigo-300">
-                    <ul class="list-disc ml-6 space-y-6 text-gray-800 text-sm">
+                    <ul class="list-disc ml-6 space-y-6 text-gray-800 text-sm" style="overflow: visible;">
                         {% for item in chyby %}
                         <li style="overflow: visible;">
                             <strong class="block">{{ item.id }} – {{ item.nazov }}</strong>
-                            <p class="text-gray-600 repair-result">{{ item.navrh }}</p>
+                            <div class="text-gray-600 repair-result">{{ item.navrh }}</div>
                             <button class="repair-button"
                                     data-kategoria="{{ kategoria }}"
                                     data-id="{{ item.id }}"
@@ -98,7 +105,7 @@
                                     onclick="generateRepair(this)">
                                 Navrhni opravu
                             </button>
-                            <p class="repair-result" id="repair-result-{{ kategoria | replace(' ', '-') }}-{{ item.id | replace(' ', '-') }}"></p>
+                            <div class="repair-result" id="repair-result-{{ kategoria | replace(' ', '-') }}-{{ item.id | replace(' ', '-') }}"></div>
                         </li>
                         {% endfor %}
                     </ul>
