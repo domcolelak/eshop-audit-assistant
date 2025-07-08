@@ -149,7 +149,7 @@ async def generate_repair(kategoria: str = Form(...), produkt_id: str = Form(...
             model="gpt-4o-mini",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2,
-            max_tokens=150,
+            max_tokens=300,
         )
         navrh = response.choices[0].message.content.strip()
     except Exception as e:
